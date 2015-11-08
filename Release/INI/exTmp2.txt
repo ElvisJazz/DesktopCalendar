@@ -1,0 +1,646 @@
+<!DOCTYPE html>
+<html><head><meta charset="GB2312"/><title>欢迎莅临虎踞龙蟠BBS站 - 沟通心灵，帖近你我 -- 欢迎光临</title>
+<link rel="shortcut icon" type="image/icon" href="/favicon.ico" /><script src="/static/jquery.js" language="javascript"></script>
+<link rel="stylesheet" href="/static/css/ui-lightness/jquery-ui-1.8.16.custom.css" type="text/css" media="screen" /><link rel="stylesheet" type="text/css" href="css/wforum.css"/><script type="text/javascript">
+var siteconf_SMS_SUPPORT = 0;
+var siteconf_BOARDS_PER_ROW = 3;var siteconf_SHOW_POST_UNREAD = 1;var siteconf_THREADSPERPAGE = 10;
+</script>
+</head>
+<body><div id="header" class="layoutbox">
+   <div id="logo">      <a href="index.php"><img src="/images/LOGO.png"/></a>
+   </div>
+   <div class="banner">
+   </div>
+   <ul>
+      <li><a href="dispuser.php?id=SYSOP">联系我们</a></li>
+      <li><a href="board.php?name=BBSHelp">论坛帮助</a></li>      <li><a href="cookie.php?WebModel=www2" target="_top" >经典模式</a></li>
+   </ul></div><div id="navmenu" class="layoutbox"><ul class="menu" id="menu">
+<li class="mega first"><a href="logon.php">登录</a></li><li class="mega"><a href="/accounts/register">注册</a></li>
+<li class="mega"><a href="/s">搜索</a>    <div class="submenu search">       <form class="alter" action="/s" method="get">          <a href="/s">搜索文章</a><br>
+          <input type="text" class="TableBorder2" name="q" value="输入关键字" size="12" onmouseover="this.focus()" onfocus="this.select()"/>          <input type="submit" style="display:none;"/>       </form>       <form action="searchboard.php" method="post">          <a href="searchboard.php">搜索版面</a><br>          <input class="TableBorder2" name="board" value="版面名称" size="12" onmouseover="this.focus()" onfocus="this.select()"/>       </form>    </div></li>
+<li class="mega"><a href="/seu/order.php">纪念品</a></li>
+<li class="mega"><a href="/seu/vote.php">全站投票</a></li><li class="mega"><a href="/pt">虎踞龙蟠PT</a></li><li class="mega"><a style="color:blue" href="/client">手机客户端 <img src="/client/files/new.png"/></a></li><li class="mega"><a href="#">Term</a>
+    <ul class="submenu">    <li><a href="/wForum/disparticle.php?boardName=BBSHelp&ID=9912">Term教程</a></li>
+    <li><a href="/data/fterm.rar">FTerm下载</a></li>    <li><a href="/files/loverabbit/software/CTerm-3.5.20.rar">CTerm下载</a></li>    <li><a href="/data/STerm2549.rar">STerm下载</a></li>    </ul>
+</li>
+</ul>
+</div><link rel="stylesheet" type="text/css" href="css/mainpage.css"/><table cellSpacing=0 cellPadding=0 width=97% border=0 align=center>
+<tr><td align=center width=100% valign=middle colspan=2 height=1 bgcolor="#cccccc"></td></tr>
+<TR><TD style="line-height: 20px;">
+欢迎新加入会员 <a href=dispuser.php?id=zyFiona target=_blank><b>zyFiona</b></a>&nbsp;[<a href="board.php?name=newcomers">新进来宾</a>]</td><TD valign=bottom align=right style="line-height: 20px;"><!--<a href=# onclick="alert('本功能尚在开发中！');">查看新贴</a> , --><a href=topten.php>热门话题</a> , <!--<a href=# onclick="alert('本功能尚在开发中！');">发贴排行</a> , --><a href="showonlineuser.php">在线用户</a> ,
+<a href="favboard.php?x">新分类讨论区</a>
+<!--<BR>您最后一次访问是在：2013-07-04 20:47:44--></TD></TR></table><div id="content"><div id="leftbar"><!-- 推荐文章 start -->
+<table cellspacing="1" cellpadding="0" align="left" width="99%" class="TableBorder1">
+<thead>
+ <tr>
+    <th align="left" id="TableTitleLink">
+    <a href="board.php?name=Recommend">推荐文章</a>
+    <a href="rss.php?board=Recommend&ic=1&ftype=1"><img width="14" height="14" border="0" align="top" alt="订阅" src="pic/rss.png"/></a> 
+    </th>
+</tr>
+</thead><tr>    <td width="100%" class="TableBody1" align="left">
+        <dl id="recommend">
+	<dd>
+    <a href="bbscon.php?board=feeling&id=456722">
+		在东大做过的一些事	</a>
+	</dd>	<dt>
+		    在湖区生活了将近七年，如今要走了。曾经不止一次得有想过，我的毕业论文致谢应该写些什么；也曾经不止一次得有想过，当我提着行李最终离开东大时会是一种什么样的心情。06年来九龙湖报道时，路边有的只是黄土，图书馆也还没建；如今梅园和教学楼南边 	</dt>
+		<dd>    <a href="bbscon.php?board=Abroad&id=31567">
+		代好友发：普林斯顿fellowship申请总结（欢迎准备出国的师弟师 	</a>	</dd>	<dt>
+		【 以下文字转载自 SEUExpress 讨论区 】发信人: Ryu (i&amp;apos;m a kofer), 信区: SEUExpress标  题: 代好友发：普林斯顿fellowship申请总结（欢迎准备出国的师弟师妹借鉴）发信站: 虎踞龙蟠SBBS (Thu May  9 13:16:34 2013), 站内
+ 	</dt>
+		<dd>    <a href="bbscon.php?board=Girls&id=239064">
+		《陆贞传奇》观后感——同昌公主独白	</a>
+	</dd>	<dt>
+		引子    终于看完了《陆贞传奇》，没想到这个最后出现的人物让我有了写文的冲动。正文我是陈国的同昌公主。我的父亲是陈国陈文帝。我是我父王最宠爱的公主。虽然很多事 	</dt>
+		<dd>    <a href="bbscon.php?board=Hardware&id=96893">
+		致我们每天都在用的内存	</a>
+	</dd>	<dt>
+		前言：撸主的兴趣是搞软件，硬件方面一直不行，也就是说咱其实经常硬不起来，今儿突然来了感觉写了这篇有点儿硬的文章，必然有贻笑大方和图样图森破的地方，还请指教。今儿撸主将自己破机器的物理内存从1G升级到2G后立马感觉腰不酸了背不疼了腿也不抽筋了 	</dt>
+		<dd>    <a href="bbscon.php?board=Photography&id=64112">		带你去看世界上最美的风景1--北欧	</a>	</dd>	<dt>
+		--※ 修改:·dreamtime 于 May 13 23:33:42 2013 修改本文·[FROM: 222.95.211.*]※ 来源:·虎踞龙蟠SBBS http://bbs.seu.edu.cn·[FROM: 49.65.30.*]0 	</dt>	        </dl>    </td>
+</tr>
+</table><!-- 推荐文章 end -->
+<script>/*$(function(){
+    $("#banner2").easySlider({        auto: true,         pause:4000,
+        prevText:'',        nextText:'',        continuous: true,
+        numeric : true,
+        numericId:'banner2_controls'    });
+});  
+*/</script>
+<div class='banner2'></div><!--分类讨论区 start--><div id="sections">
+<table cellspacing="1" cellpadding="0" align="left" width="99%" class="TableBorder1 section">
+<thead>
+ <tr>
+    <th id="TableTitleLink" class="boardlist">            <a class="sectionname" title="查看[本站系统]所有版面" href="section.php?sec=0">[本站系统]</a><a href="board.php?name=Blessing">SBBS祝福</a><a href="board.php?name=BBSHelp">BBS使用求助</a><a href="board.php?name=sysop">站长的工作室</a><a href="board.php?name=newcomers">新手上路</a><a href="board.php?name=Recommend">热点推荐</a><a title="查看[本站系统]所有版面" href="section.php?sec=0">...</a>    </th>
+</tr>
+</thead><tr>    <td width="100%" class="TableBody1 articleList" align="left">
+    <table cellspacing="0" cellpadding="0" align="left" width="100%">
+<tr>    <td class="boardname">[<a href="board.php?name=BBSHelp">BBS使用求助</a>]</td>	    <td class="articletitle"><a href="disparticle.php?boardName=BBSHelp&ID=26615">能不能更改username?</a></td>    <td class="author"><a href="dispuser.php?id=fanzheng">fanzheng</a></td>
+</tr>
+    </table>    </td>
+</tr>
+</table>    <table cellspacing="1" cellpadding="0" align="left" width="99%" class="TableBorder1 section">
+<thead>
+ <tr>
+    <th id="TableTitleLink" class="boardlist">            <a class="sectionname" title="查看[东南大学]所有版面" href="section.php?sec=1">[东南大学]</a><a href="board.php?name=SEUExpress">校园特快</a><a href="board.php?name=JLHCampus">九龙湖校区</a><a href="board.php?name=Radio">信息科学与工程学院</a><a href="board.php?name=BioMedEngineering">生物科学与医学工程学院</a><a title="查看[东南大学]所有版面" href="section.php?sec=1">...</a>    </th>
+</tr>
+</thead><tr>    <td width="100%" class="TableBody1 articleList" align="left">
+    <table cellspacing="0" cellpadding="0" align="left" width="100%">
+<tr>    <td class="boardname">[<a href="board.php?name=SEUExpress">校园特快</a>]</td>	    <td class="articletitle"><a href="disparticle.php?boardName=SEUExpress&ID=422777">关于校园Web认证</a></td>    <td class="author"><a href="dispuser.php?id=poetdevin">poetdevin</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=Radio">信息科学与工程学院</a>]</td>	
+    <td class="articletitle"><a href="disparticle.php?boardName=Radio&ID=28403">A++论坛——谷中人自己的交流平台</a></td>    <td class="author"><a href="dispuser.php?id=shuangmu">shuangmu</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=Electronics">电子科学与工程学院</a>]</td>	
+    <td class="articletitle"><a href="disparticle.php?boardName=Electronics&ID=19689">毁约后签了新的三方协议，然后该如何处理？</a></td>
+    <td class="author"><a href="dispuser.php?id=hijupiter">hijupiter</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=Radio">信息科学与工程学院</a>]</td>	
+    <td class="articletitle"><a href="disparticle.php?boardName=Radio&ID=28247">无线谷班车，够吗？？？尼玛太不够了！！！各位帅哥美女，你们</a></td>
+    <td class="author"><a href="dispuser.php?id=jackwu">jackwu</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=Radio">信息科学与工程学院</a>]</td>	
+    <td class="articletitle"><a href="disparticle.php?boardName=Radio&ID=28400">2013年暑期中国无线谷园区巴士运行时刻表（试行）</a></td>
+    <td class="author"><a href="dispuser.php?id=sunway">sunway</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=Electronics">电子科学与工程学院</a>]</td>	
+    <td class="articletitle"><a href="disparticle.php?boardName=Electronics&ID=19688">保卫处政保科暑假办理各种证明的时间安排 </a></td>    <td class="author"><a href="dispuser.php?id=Messiah">Messiah</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=JLHCampus">九龙湖校区</a>]</td>	
+    <td class="articletitle"><a href="disparticle.php?boardName=JLHCampus&ID=183395">保卫处政保科暑假办理各种证明的时间安排</a></td>    <td class="author"><a href="dispuser.php?id=angelqiao">angelqiao</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=Mechanics">机械工程学院</a>]</td>	
+    <td class="articletitle"><a href="disparticle.php?boardName=Mechanics&ID=37220">迅达（中国）电梯招聘</a></td>
+    <td class="author"><a href="dispuser.php?id=windyanshou">windyanshou</a></td>
+</tr>
+    </table>    </td>
+</tr>
+</table>    <table cellspacing="1" cellpadding="0" align="left" width="99%" class="TableBorder1 section">
+<thead>
+ <tr>
+    <th id="TableTitleLink" class="boardlist">            <a class="sectionname" title="查看[电脑技术]所有版面" href="section.php?sec=2">[电脑技术]</a><a href="board.php?name=Hardware">硬件之家</a><a href="board.php?name=Linux">Linux操作系统</a><a href="board.php?name=NewSoftware">软件百宝箱</a><a href="board.php?name=Windows">Windows操作系统</a><a href="board.php?name=C_CPlusPlus">C/C++语言</a><a title="查看[电脑技术]所有版面" href="section.php?sec=2">...</a>    </th>
+</tr>
+</thead><tr>    <td width="100%" class="TableBody1 articleList" align="left">
+    <table cellspacing="0" cellpadding="0" align="left" width="100%">
+<tr>    <td class="boardname">[<a href="board.php?name=Linux">Linux操作系统</a>]</td>	    <td class="articletitle"><a href="disparticle.php?boardName=Linux&ID=44637">Fedora 19 已发布</a></td>
+    <td class="author"><a href="dispuser.php?id=guoyujia">guoyujia</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=Windows">Windows操作系统</a>]</td>	    <td class="articletitle"><a href="disparticle.php?boardName=Windows&ID=49609">关于Surface优惠资格报名的公告 (转载)</a></td>
+    <td class="author"><a href="dispuser.php?id=ariva">ariva</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=Linux">Linux操作系统</a>]</td>	    <td class="articletitle"><a href="disparticle.php?boardName=Linux&ID=32077">Ubuntu专用，傻瓜式bras安装</a></td>
+    <td class="author"><a href="dispuser.php?id=wbc">wbc</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=Internetwork">路由,交换和互联协议</a>]</td>	
+    <td class="articletitle"><a href="disparticle.php?boardName=Internetwork&ID=6271">连不上bras，错误668,789，813是怎么回事啊？</a></td>
+    <td class="author"><a href="dispuser.php?id=ClearSky">ClearSky</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=Windows">Windows操作系统</a>]</td>	    <td class="articletitle"><a href="disparticle.php?boardName=Windows&ID=49648">XP系统，上不去六维等ipv6网址，但是能上学校PT。</a></td>
+    <td class="author"><a href="dispuser.php?id=suyue">suyue</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=Windows">Windows操作系统</a>]</td>	    <td class="articletitle"><a href="disparticle.php?boardName=Windows&ID=49570">win8 bras求助</a></td>    <td class="author"><a href="dispuser.php?id=xueaiguo">xueaiguo</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=Internetwork">路由,交换和互联协议</a>]</td>	
+    <td class="articletitle"><a href="disparticle.php?boardName=Internetwork&ID=6275">求助！一开BT下载路由器的无线就会断掉是怎么回事？</a></td>
+    <td class="author"><a href="dispuser.php?id=sumlose">sumlose</a></td>
+</tr>
+    </table>    </td>
+</tr>
+</table>    <table cellspacing="1" cellpadding="0" align="left" width="99%" class="TableBorder1 section">
+<thead>
+ <tr>
+    <th id="TableTitleLink" class="boardlist">            <a class="sectionname" title="查看[学术科学]所有版面" href="section.php?sec=3">[学术科学]</a><a href="board.php?name=LiterHuman">人文科学</a><a href="board.php?name=English">英语学习</a><a href="board.php?name=AstroGeo">天文地理</a><a href="board.php?name=MathTools">数学工具</a><a href="board.php?name=Circuits">电路系统</a><a title="查看[学术科学]所有版面" href="section.php?sec=3">...</a>
+    </th>
+</tr>
+</thead><tr>    <td width="100%" class="TableBody1 articleList" align="left">
+    <table cellspacing="0" cellpadding="0" align="left" width="100%">
+<tr>    <td class="boardname">[<a href="board.php?name=Embedded">嵌入式系统</a>]</td>	    <td class="articletitle"><a href="disparticle.php?boardName=Embedded&ID=15339">想买单片机，求推荐</a></td>    <td class="author"><a href="dispuser.php?id=yangkun">yangkun</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=MathPhys">数学物理</a>]</td>	    <td class="articletitle"><a href="disparticle.php?boardName=MathPhys&ID=12375">带加热平台的SEM</a></td>
+    <td class="author"><a href="dispuser.php?id=zhouwei">zhouwei</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=Embedded">嵌入式系统</a>]</td>	    <td class="articletitle"><a href="disparticle.php?boardName=Embedded&ID=15341">求购BeagleBone Black 开发板</a></td>
+    <td class="author"><a href="dispuser.php?id=cableyang">cableyang</a></td>
+</tr>
+    </table>    </td>
+</tr>
+</table>    <table cellspacing="1" cellpadding="0" align="left" width="99%" class="TableBorder1 section">
+<thead>
+ <tr>
+    <th id="TableTitleLink" class="boardlist">            <a class="sectionname" title="查看[艺术文化]所有版面" href="section.php?sec=4">[艺术文化]</a><a href="board.php?name=Photography">摄影天地</a><a href="board.php?name=Emprises">侠气漫天</a><a href="board.php?name=MasterPieces">博览群书</a><a href="board.php?name=poem">诗词歌赋</a><a href="board.php?name=Asciiarts">ASCII字符艺术</a><a title="查看[艺术文化]所有版面" href="section.php?sec=4">...</a>    </th>
+</tr>
+</thead><tr>    <td width="100%" class="TableBody1 articleList" align="left">
+    <table cellspacing="0" cellpadding="0" align="left" width="100%">
+<tr>    <td class="boardname">[<a href="board.php?name=Photography">摄影天地</a>]</td>	
+    <td class="articletitle"><a href="disparticle.php?boardName=Photography&ID=65617">好重的黑眼圈</a></td>
+    <td class="author"><a href="dispuser.php?id=wangyingrice">wangyingrice</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=MasterPieces">博览群书</a>]</td>	    <td class="articletitle"><a href="disparticle.php?boardName=MasterPieces&ID=22100">一人推荐一本书</a></td>    <td class="author"><a href="dispuser.php?id=jianghuguijv">jianghuguijv</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=MasterPieces">博览群书</a>]</td>	    <td class="articletitle"><a href="disparticle.php?boardName=MasterPieces&ID=23685">鲍照</a></td>    <td class="author"><a href="dispuser.php?id=ND">ND</a></td>
+</tr>
+    </table>    </td>
+</tr>
+</table>    <table cellspacing="1" cellpadding="0" align="left" width="99%" class="TableBorder1 section">
+<thead>
+ <tr>
+    <th id="TableTitleLink" class="boardlist">            <a class="sectionname" title="查看[乡情校谊]所有版面" href="section.php?sec=5">[乡情校谊]</a><a href="board.php?name=Nanjing">金陵帝王洲</a><a href="board.php?name=ShanDong">乡浓山东</a><a href="board.php?name=Anhui">徽风皖韵</a><a href="board.php?name=XJTU">西安交大</a><a href="board.php?name=Suzhou">水韵姑苏</a><a title="查看[乡情校谊]所有版面" href="section.php?sec=5">...</a>
+    </th>
+</tr>
+</thead><tr>    <td width="100%" class="TableBody1 articleList" align="left">
+    <table cellspacing="0" cellpadding="0" align="left" width="100%">
+<tr>    <td class="boardname">[<a href="board.php?name=Shanxi">汾酒陈醋刀削面</a>]</td>	    <td class="articletitle"><a href="disparticle.php?boardName=Shanxi&ID=8696">不懂山东请客吃饭时饭桌上的座法</a></td>
+    <td class="author"><a href="dispuser.php?id=windspeaker">windspeaker</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=Nanjing">金陵帝王洲</a>]</td>	
+    <td class="articletitle"><a href="disparticle.php?boardName=Nanjing&ID=27819">和燕路跨线桥预计下周六爆破 未来可能原地建设立交桥</a></td>    <td class="author"><a href="dispuser.php?id=dududu">dududu</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=ZheJiang">风云浙江</a>]</td>	    <td class="articletitle"><a href="disparticle.php?boardName=ZheJiang&ID=8834">全国首例淘宝&quot;恶意差评师&quot;案一审宣判 主犯获刑两年 2013年07月0</a></td>    <td class="author"><a href="dispuser.php?id=yopchimga">yopchimga</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=Nanjing">金陵帝王洲</a>]</td>	
+    <td class="articletitle"><a href="disparticle.php?boardName=Nanjing&ID=27820">南京明迎“二段梅”后天降到28℃ 高温天当心路面烫伤</a></td>    <td class="author"><a href="dispuser.php?id=dududu">dududu</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=Nanjing">金陵帝王洲</a>]</td>	
+    <td class="articletitle"><a href="disparticle.php?boardName=Nanjing&ID=27821">各区编制和资金有限制 婚姻登记处人员多是临时工？</a></td>    <td class="author"><a href="dispuser.php?id=dududu">dududu</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=XuZhou">辣汤辣汤，我是烙馍</a>]</td>	    <td class="articletitle"><a href="disparticle.php?boardName=XuZhou&ID=35453">好没落，都沦落到没有斑竹了。。</a></td>    <td class="author"><a href="dispuser.php?id=lunarkitty">lunarkitty</a></td>
+</tr>
+    </table>    </td>
+</tr>
+</table>    <table cellspacing="1" cellpadding="0" align="left" width="99%" class="TableBorder1 section">
+<thead>
+ <tr>
+    <th id="TableTitleLink" class="boardlist">            <a class="sectionname" title="查看[休闲娱乐]所有版面" href="section.php?sec=6">[休闲娱乐]</a><a href="board.php?name=Pictures">贴图板</a><a href="board.php?name=humour">幽默人生</a><a href="board.php?name=Astrology">星座</a><a href="board.php?name=MoviesTV">影视空间</a><a href="board.php?name=mobile">手机通信</a><a title="查看[休闲娱乐]所有版面" href="section.php?sec=6">...</a>    </th>
+</tr>
+</thead><tr>    <td width="100%" class="TableBody1 articleList" align="left">
+    <table cellspacing="0" cellpadding="0" align="left" width="100%">
+<tr>    <td class="boardname">[<a href="board.php?name=Pictures">贴图板</a>]</td>	    <td class="articletitle"><a href="disparticle.php?boardName=Pictures&ID=235240">按摩手法 男生也得好好学学~</a></td>
+    <td class="author"><a href="dispuser.php?id=fanchunbao">fanchunbao</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=Cartoon">动漫长廊</a>]</td>	
+    <td class="articletitle"><a href="disparticle.php?boardName=Cartoon&ID=134053">过年好~</a></td>
+    <td class="author"><a href="dispuser.php?id=hardtocagain">hardtocagain</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=Pet">宠物之家</a>]</td>	
+    <td class="articletitle"><a href="disparticle.php?boardName=Pet&ID=10053">【SPL】平毛宝宝求领养</a></td>    <td class="author"><a href="dispuser.php?id=lipo">lipo</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=mobile">手机通信</a>]</td>	    <td class="articletitle"><a href="disparticle.php?boardName=mobile&ID=672369234">请问手机VPN如何设置校园bras</a></td>
+    <td class="author"><a href="dispuser.php?id=Thunder">Thunder</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=PopMusic">流行音乐</a>]</td>	    <td class="articletitle"><a href="disparticle.php?boardName=PopMusic&ID=60882">你会唱下面哪几首台语歌啊？</a></td>    <td class="author"><a href="dispuser.php?id=omd">omd</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=Travel">徜徉山水</a>]</td>	    <td class="articletitle"><a href="disparticle.php?boardName=Travel&ID=71475">征人游  东北or广西</a></td>    <td class="author"><a href="dispuser.php?id=wagnerboris">wagnerboris</a></td>
+</tr>
+    </table>    </td>
+</tr>
+</table>    <table cellspacing="1" cellpadding="0" align="left" width="99%" class="TableBorder1 section">
+<thead>
+ <tr>
+    <th id="TableTitleLink" class="boardlist">            <a class="sectionname" title="查看[知性感性]所有版面" href="section.php?sec=7">[知性感性]</a><a href="board.php?name=feeling">欲将心事付网中</a><a href="board.php?name=PieBridge">缘分的天空</a><a href="board.php?name=Girls">女孩心声</a><a href="board.php?name=ID">ID的故事</a><a href="board.php?name=Psychology">心理健康</a><a title="查看[知性感性]所有版面" href="section.php?sec=7">...</a>    </th>
+</tr>
+</thead><tr>    <td width="100%" class="TableBody1 articleList" align="left">
+    <table cellspacing="0" cellpadding="0" align="left" width="100%">
+<tr>    <td class="boardname">[<a href="board.php?name=feeling">欲将心事付网中</a>]</td>	
+    <td class="articletitle"><a href="disparticle.php?boardName=feeling&ID=457566">看见别人的老婆比自己的漂亮 你有何感想？</a></td>
+    <td class="author"><a href="dispuser.php?id=zhile">zhile</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=Girls">女孩心声</a>]</td>	
+    <td class="articletitle"><a href="disparticle.php?boardName=Girls&ID=239261">努力工作，相信爱情···写给你</a></td>    <td class="author"><a href="dispuser.php?id=xiao">xiao</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=Automobile">宝马奔驰</a>]</td>	    <td class="articletitle"><a href="disparticle.php?boardName=Automobile&ID=21072">君越VS迈腾</a></td>    <td class="author"><a href="dispuser.php?id=buickpoor">buickpoor</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=ID">ID的故事</a>]</td>	    <td class="articletitle"><a href="disparticle.php?boardName=ID&ID=175557">原创一个小故事来解释什么叫做金融危机</a></td>
+    <td class="author"><a href="dispuser.php?id=basca">basca</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=Memory">往事如风</a>]</td>	    <td class="articletitle"><a href="disparticle.php?boardName=Memory&ID=23862">版二妹纸，听说滚蛋了，写篇回忆录吧</a></td>    <td class="author"><a href="dispuser.php?id=seujwb">seujwb</a></td>
+</tr>
+    </table>    </td>
+</tr>
+</table>    <table cellspacing="1" cellpadding="0" align="left" width="99%" class="TableBorder1 section">
+<thead>
+ <tr>
+    <th id="TableTitleLink" class="boardlist">            <a class="sectionname" title="查看[人文信息]所有版面" href="section.php?sec=8">[人文信息]</a><a href="board.php?name=SecondHand">跳蚤市场</a><a href="board.php?name=jobs">打工一族</a><a href="board.php?name=AcademicEvents">校园讲座与活动</a><a href="board.php?name=UnitedChina">统一战线</a><a href="board.php?name=Military">军事天地</a><a title="查看[人文信息]所有版面" href="section.php?sec=8">...</a>    </th>
+</tr>
+</thead><tr>    <td width="100%" class="TableBody1 articleList" align="left">
+    <table cellspacing="0" cellpadding="0" align="left" width="100%">
+<tr>    <td class="boardname">[<a href="board.php?name=Trafficinfo">交通信息</a>]</td>	
+    <td class="articletitle"><a href="disparticle.php?boardName=Trafficinfo&ID=38357">明年南京到南通将通动车</a></td>
+    <td class="author"><a href="dispuser.php?id=CRH">CRH</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=SecondHand">跳蚤市场</a>]</td>	    <td class="articletitle"><a href="disparticle.php?boardName=SecondHand&ID=380486">出Kindle3 电纸子书wifi和3G版</a></td>
+    <td class="author"><a href="dispuser.php?id=Fionn">Fionn</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=Intern">实习</a>]</td>	    <td class="articletitle"><a href="disparticle.php?boardName=Intern&ID=8364">暑期兼职---南京师范大学招生</a></td>    <td class="author"><a href="dispuser.php?id=yangsong">yangsong</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=HouseInfo">房产信息</a>]</td>	
+    <td class="articletitle"><a href="disparticle.php?boardName=HouseInfo&ID=7557">【出租】北京东路学区房出租</a></td>    <td class="author"><a href="dispuser.php?id=hellowyr">hellowyr</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=Abroad">飞跃重洋</a>]</td>	    <td class="articletitle"><a href="disparticle.php?boardName=Abroad&ID=31659">【兼职】Translation Central英文撰稿人</a></td>
+    <td class="author"><a href="dispuser.php?id=xxh">xxh</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=Intern">实习</a>]</td>	    <td class="articletitle"><a href="disparticle.php?boardName=Intern&ID=8376">诚招兼职会计一名，一月工作一天，日薪200元，在九龙湖</a></td>    <td class="author"><a href="dispuser.php?id=wow">wow</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=Intern">实习</a>]</td>	    <td class="articletitle"><a href="disparticle.php?boardName=Intern&ID=8363">2013博世创新挑战赛复赛落幕，线上拼图游戏再掀“疯玩”热潮</a></td>
+    <td class="author"><a href="dispuser.php?id=SuperHR">SuperHR</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=HouseInfo">房产信息</a>]</td>	
+    <td class="articletitle"><a href="disparticle.php?boardName=HouseInfo&ID=7633">求租，短租一个月~</a></td>
+    <td class="author"><a href="dispuser.php?id=huadeliu">huadeliu</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=jobs">打工一族</a>]</td>	    <td class="articletitle"><a href="disparticle.php?boardName=jobs&ID=176970">【全职】【Marvell】ASIC急招</a></td>    <td class="author"><a href="dispuser.php?id=doremi">doremi</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=HouseInfo">房产信息</a>]</td>	
+    <td class="articletitle"><a href="disparticle.php?boardName=HouseInfo&ID=7643">上海8号线,10号线附近求短租合租</a></td>    <td class="author"><a href="dispuser.php?id=wennedy">wennedy</a></td>
+</tr>
+    </table>    </td>
+</tr>
+</table>    <table cellspacing="1" cellpadding="0" align="left" width="99%" class="TableBorder1 section">
+<thead>
+ <tr>
+    <th id="TableTitleLink" class="boardlist">            <a class="sectionname" title="查看[体坛风暴]所有版面" href="section.php?sec=9">[体坛风暴]</a><a href="board.php?name=football">足球世界</a><a href="board.php?name=basketball">篮球</a><a href="board.php?name=Skating">溜冰可乐</a><a href="board.php?name=Badminton">轻羽飞扬</a><a href="board.php?name=TableTennis">乒乓来去</a><a title="查看[体坛风暴]所有版面" href="section.php?sec=9">...</a>    </th>
+</tr>
+</thead><tr>    <td width="100%" class="TableBody1 articleList" align="left">
+    <table cellspacing="0" cellpadding="0" align="left" width="100%">
+<tr>    <td class="boardname">[<a href="board.php?name=football">足球世界</a>]</td>	    <td class="articletitle"><a href="disparticle.php?boardName=football&ID=155704">英权威杂志《世界足球》评足坛历史最佳阵容：梅西配贝利 无C罗</a></td>
+    <td class="author"><a href="dispuser.php?id=zhile">zhile</a></td>
+</tr>
+    </table>    </td>
+</tr>
+</table>    <table cellspacing="1" cellpadding="0" align="left" width="99%" class="TableBorder1 section">
+<thead>
+ <tr>
+    <th id="TableTitleLink" class="boardlist">            <a class="sectionname" title="查看[校务信箱]所有版面" href="section.php?sec=10">[校务信箱]</a><a href="board.php?name=M_LogisticAdmin">后勤管理处长信箱</a><a href="board.php?name=CampusNetwork">网络与信息中心</a><a href="board.php?name=GraduateSchool">研究生院</a><a href="board.php?name=M_Library">图书馆</a><a href="board.php?name=M_LogisticGroup">后勤集团总经理信箱</a><a title="查看[校务信箱]所有版面" href="section.php?sec=10">...</a>
+    </th>
+</tr>
+</thead><tr>    <td width="100%" class="TableBody1 articleList" align="left">
+    <table cellspacing="0" cellpadding="0" align="left" width="100%">
+<tr>    <td class="boardname">[<a href="board.php?name=M_LogisticAdmin">后勤管理处长信箱</a>]</td>	
+    <td class="articletitle"><a href="disparticle.php?boardName=M_LogisticAdmin&ID=34380">人人上看到的文章，觉得班车的问题学校一直不重视，就转发下</a></td>
+    <td class="author"><a href="dispuser.php?id=sabo">sabo</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=AIOCardCenter">一卡通管理中心</a>]</td>	
+    <td class="articletitle"><a href="disparticle.php?boardName=AIOCardCenter&ID=13154">2013本科毕业生一卡通退款</a></td>
+    <td class="author"><a href="dispuser.php?id=card">card</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=M_LogisticGroup">后勤集团总经理信箱</a>]</td>	
+    <td class="articletitle"><a href="disparticle.php?boardName=M_LogisticGroup&ID=672361163">莘园食堂的包子和菜们。。。。 (转载)</a></td>    <td class="author"><a href="dispuser.php?id=xiaohua">xiaohua</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=CampusNetwork">网络与信息中心</a>]</td>	
+    <td class="articletitle"><a href="disparticle.php?boardName=CampusNetwork&ID=63201">web认证有点不靠谱啊，流量刷刷刷的就没了</a></td>    <td class="author"><a href="dispuser.php?id=xyz">xyz</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=CampusNetwork">网络与信息中心</a>]</td>	
+    <td class="articletitle"><a href="disparticle.php?boardName=CampusNetwork&ID=63207">换ip后ipv6不稳定啊</a></td>
+    <td class="author"><a href="dispuser.php?id=aming">aming</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=CampusNetwork">网络与信息中心</a>]</td>	
+    <td class="articletitle"><a href="disparticle.php?boardName=CampusNetwork&ID=63191">请教个问题</a></td>
+    <td class="author"><a href="dispuser.php?id=chorro">chorro</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=GraduateSchool">研究生院</a>]</td>	    <td class="articletitle"><a href="disparticle.php?boardName=GraduateSchool&ID=672356536">求研究生毕业典礼的其他照片</a></td>    <td class="author"><a href="dispuser.php?id=Cosery">Cosery</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=M_LogisticGroup">后勤集团总经理信箱</a>]</td>	
+    <td class="articletitle"><a href="disparticle.php?boardName=M_LogisticGroup&ID=672361165">[公告]非常感谢校西便利店0806阿姨</a></td>
+    <td class="author"><a href="dispuser.php?id=mshle">mshle</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=M_Security">保卫处处长信箱</a>]</td>	    <td class="articletitle"><a href="disparticle.php?boardName=M_Security&ID=672331378">保卫处政保科暑期办理各种证明时间安排</a></td>    <td class="author"><a href="dispuser.php?id=angelqiao">angelqiao</a></td>
+</tr>
+    </table>    </td>
+</tr>
+</table>    <table cellspacing="1" cellpadding="0" align="left" width="99%" class="TableBorder1 section">
+<thead>
+ <tr>
+    <th id="TableTitleLink" class="boardlist">            <a class="sectionname" title="查看[社团群体]所有版面" href="section.php?sec=11">[社团群体]</a><a href="board.php?name=DoctorForum">博士生论坛</a><a href="board.php?name=Outdoor">户外协会</a><a href="board.php?name=GraduateUnion">研究生会</a><a href="board.php?name=SCDA">学生职业发展协会</a><a href="board.php?name=StudentUnion">学生会</a><a title="查看[社团群体]所有版面" href="section.php?sec=11">...</a>    </th>
+</tr>
+</thead><tr>    <td width="100%" class="TableBody1 articleList" align="left">
+    <table cellspacing="0" cellpadding="0" align="left" width="100%">
+<tr>    <td class="boardname">[<a href="board.php?name=MSTC">微软技术俱乐部</a>]</td>	    <td class="articletitle"><a href="disparticle.php?boardName=MSTC&ID=4387">东南大学MSTC Surface订购一期名单</a></td>
+    <td class="author"><a href="dispuser.php?id=ariva">ariva</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=DoctorForum">博士生论坛</a>]</td>	
+    <td class="articletitle"><a href="disparticle.php?boardName=DoctorForum&ID=37775">求学校给个博士毕业公示期长达3个月的理由</a></td>    <td class="author"><a href="dispuser.php?id=shella">shella</a></td>
+</tr>
+<tr>    <td class="boardname">[<a href="board.php?name=DoctorForum">博士生论坛</a>]</td>	
+    <td class="articletitle"><a href="disparticle.php?boardName=DoctorForum&ID=37833">6月22日的毕业典礼，学校有没有什么视频或照片，在哪里下载？谢</a></td>    <td class="author"><a href="dispuser.php?id=moononme">moononme</a></td>
+</tr>
+    </table>    </td>
+</tr>
+</table>    </div><!--分类讨论区 end-->
+</div><div id="rightbar">
+<table cellspacing="1" cellpadding="0" align="left" width="100%" class="TableBorder1 bar"><thead>
+ <tr>
+    <th id="TableTitleLink">    <a href="boarddoc.php?name=AcademicEvents&ftype=1">校园讲座与活动</a>
+    <a href="rss.php?board=AcademicEvents&ftype=1"><img width="14" height="14" border="0" align="top" alt="订阅" src="pic/rss.png"/></a>    <link href="rss.php?board=AcademicEvents&ftype=1" type="application/rss+xml" rel="alternate" />
+    </th>
+</tr>
+</thead><tr>    <td width="100%" class="TableBody1 barList" align="left">
+    	<ul>
+			<li>
+            <a href="bbscon.php?board=AcademicEvents&id=15261">
+            征集学设计的同学改进虎踞龙蟠iOS客户端 			</a>
+		</li>
+	
+			<li>
+            <a href="bbscon.php?board=AcademicEvents&id=15193">
+            东南大学第十二届精品人文选修课短学期开放选修 
+			</a>
+		</li>
+	
+	 	</ul>    </td>
+</tr>
+</table><table cellspacing="1" cellpadding="0" align="left" width="100%" class="TableBorder1 bar"><thead>
+ <tr>
+    <th id="TableTitleLink">    <a href="boarddoc.php?name=Notice&ftype=1">校务公告</a>
+    <a href="rss.php?board=Notice&ftype=1"><img width="14" height="14" border="0" align="top" alt="订阅" src="pic/rss.png"/></a>    <link href="rss.php?board=Notice&ftype=1" type="application/rss+xml" rel="alternate" />
+    </th>
+</tr>
+</thead><tr>    <td width="100%" class="TableBody1 barList" align="left">
+    	<ul>
+			<li>
+            <a href="bbscon.php?board=Notice&id=2237">            [一卡通]7月5日下午暂停办公的通知 
+			</a>
+		</li>
+	
+			<li>
+            <a href="bbscon.php?board=Notice&id=2236">            [一卡通]本硕连读学号432、112开头的同学请圈存转账并更新卡片 
+			</a>
+		</li>
+	
+			<li>
+            <a href="bbscon.php?board=Notice&id=2234">            [财务处]关于2013年财务处暑假放假的通知 
+			</a>
+		</li>
+	
+			<li>
+            <a href="bbscon.php?board=Notice&id=2233">            [档案馆]关于档案馆2013年暑假放假的通知 
+			</a>
+		</li>
+	
+			<li>
+            <a href="bbscon.php?board=Notice&id=2232">            [保卫处]户籍科和政保科暑期办证安排 
+			</a>
+		</li>
+	
+			<li>
+            <a href="bbscon.php?board=Notice&id=2231">            [后勤处]关于2013年暑假食堂、交通班车、浴室的开放通知 
+			</a>
+		</li>
+	
+			<li>
+            <a href="bbscon.php?board=Notice&id=2230">            [一卡通]一卡通暑假值班表 
+			</a>
+		</li>
+	
+			<li>
+            <a href="bbscon.php?board=Notice&id=2229">            [图书馆]暑假科技查新、查引查证及原文传递服务安排 
+			</a>
+		</li>
+	
+			<li>
+            <a href="bbscon.php?board=Notice&id=2227">            [教务处]关于暑期重修和补考的安排 
+			</a>
+		</li>
+	
+			<li>
+            <a href="bbscon.php?board=Notice&id=2222">            [网络中心]校园网IP地址切换的通知 
+			</a>
+		</li>
+	
+	 	</ul>    </td>
+</tr>
+</table><table cellspacing="1" cellpadding="0" align="left" width="100%" class="TableBorder1 bar"><thead>
+ <tr>
+    <th id="TableTitleLink">    <a href="/bbsxmlbrd.php?flag=0">推荐版面</a>    </th>
+</tr>
+</thead><tr>    <td width="100%" class="TableBody1 barList" align="left">
+    		<ul class="recommendbrd">
+		<li>		<div class="recommendbrdname">		<a href="board.php?name=GoToUnivs" title="招生工作开始，欢迎报考东南大学！">高考招生		</a>		</div>		<div class="recommendbrdevent">招生工作开始，欢迎报考东南大学！</div>		</li>		<li>		<div class="recommendbrdname">		<a href="board.php?name=PublicHealth" title="恭喜开版~">公共卫生学院		</a>		</div>		<div class="recommendbrdevent">恭喜开版~</div>		</li>
+		<li>		<div class="recommendbrdname">		<a href="board.php?name=Hardware" title="想换硬件？大家帮你出主意">硬件之家		</a>
+		</div>		<div class="recommendbrdevent">想换硬件？大家帮你出主意</div>		</li>		<li>		<div class="recommendbrdname">		<a href="board.php?name=MasterPieces" title="暑假是个读书充电的好时机">博览群书		</a>
+		</div>		<div class="recommendbrdevent">暑假是个读书充电的好时机</div>		</li>		<li>		<div class="recommendbrdname">		<a href="board.php?name=HeNan" title="国之中央，古称中原">中原大地		</a>		</div>		<div class="recommendbrdevent">国之中央，古称中原</div>		</li>		<li>		<div class="recommendbrdname">		<a href="board.php?name=MoviesTV" title="暑期档众星云集，你喜欢哪锅？">影视空间		</a>
+		</div>		<div class="recommendbrdevent">暑期档众星云集，你喜欢哪锅？</div>		</li>		<li>		<div class="recommendbrdname">		<a href="board.php?name=Leaving" title="日趋臻化境，四海领风骚">毕业心情		</a>		</div>		<div class="recommendbrdevent">日趋臻化境，四海领风骚</div>		</li>		<li>		<div class="recommendbrdname">		<a href="board.php?name=Outdoor" title="暑假将至，一起去旅行！">户外协会		</a>		</div>		<div class="recommendbrdevent">暑假将至，一起去旅行！</div>		</li> 		
+		</ul>
+    </td>
+</tr>
+</table><table cellspacing="1" cellpadding="0" align="left" width="100%" class="TableBorder1 bar"><thead>
+ <tr>
+    <th id="TableTitleLink">    <a href="topten.php">今日十大热点话题</a>
+    <a href="rsstopten.php"><img width="14" height="14" border="0" align="top" alt="订阅" src="pic/rss.png"/></a>
+    <link href="rsstopten.php" type="application/rss+xml" rel="alternate" />    </th>
+</tr>
+</thead><tr>    <td width="100%" class="TableBody1 barList" align="left">
+        <ul>       <li>
+           <a href="disparticle.php?boardName=feeling&ID=457566"  title="看见别人的老婆比自己的漂亮 你有何感想？">看见别人的老婆比自己的漂亮 你有何感想？ </a>       </li>       <li>
+           <a href="disparticle.php?boardName=Trafficinfo&ID=38357"  title="明年南京到南通将通动车">明年南京到南通将通动车 </a>
+       </li>       <li>
+           <a href="disparticle.php?boardName=Girls&ID=239261"  title="努力工作，相信爱情···写给你">努力工作，相信爱情···写给你 </a>       </li>       <li>
+           <a href="disparticle.php?boardName=MSTC&ID=4387"  title="东南大学MSTC Surface订购一期名单">东南大学MSTC Surface订购一期名单 </a>
+       </li>       <li>
+           <a href="disparticle.php?boardName=SEUExpress&ID=422777"  title="关于校园Web认证">关于校园Web认证 </a>
+       </li>       <li>
+           <a href="disparticle.php?boardName=M_LogisticAdmin&ID=34380"  title="人人上看到的文章，觉得班车的问题学校一直不重视，就转发下">人人上看到的文章，觉得班车的问题学校一直不重视，就转发下 </a>
+       </li>       <li>
+           <a href="disparticle.php?boardName=Pictures&ID=235240"  title="按摩手法 男生也得好好学学~">按摩手法 男生也得好好学学~ </a>
+       </li>       <li>
+           <a href="disparticle.php?boardName=SecondHand&ID=380486"  title="出Kindle3 电纸子书wifi和3G版">出Kindle3 电纸子书wifi和3G版 </a>
+       </li>       <li>
+           <a href="disparticle.php?boardName=AIOCardCenter&ID=13154"  title="2013本科毕业生一卡通退款">2013本科毕业生一卡通退款 </a>
+       </li>       <li>
+           <a href="disparticle.php?boardName=Photography&ID=65617"  title="好重的黑眼圈">好重的黑眼圈 </a>
+       </li>	</ul>    </td>
+</tr>
+</table><!--广告区-below_tenhot--> 
+<table cellspacing="1" cellpadding="0" align="left" width="100%" class="TableBorder1 bar"><thead>
+ <tr>
+    <th id="TableTitleLink">    <a href="board.php?name=sysop">轮值站务</a>
+    </th>
+</tr>
+</thead><tr>    <td width="100%" class="TableBody1 barList" align="left">
+    	<ul>
+			<li>
+            <a href="bbscon.php?board=sysop&id=48215">            本周轮值站务——emptyzero irun 
+			</a>
+		</li>
+	
+			<li>
+            <a href="bbscon.php?board=sysop&id=47755">            [站务]12-13学年春季学期站务值班表 (转载) 
+			</a>
+		</li>
+	
+			<li>
+            <a href="bbscon.php?board=sysop&id=47786">            关于虎踞龙蟠BBS站实名认证 			</a>
+		</li>
+	
+	 	</ul>    </td>
+</tr>
+</table><table cellspacing="1" cellpadding="0" align="left" width="100%" class="TableBorder1 bar"><thead>
+ <tr>
+    <th id="TableTitleLink">    <a href="board.php?name=NewBoard">新开版面</a>    </th>
+</tr>
+</thead><tr>    <td width="100%" class="TableBody1 barList" align="left">
+        <ul>            <li>        <a href="board.php?name=PublicHealth">公共卫生学院</a>        </li>
+            <li>            <a style="font-style:italic" title="申请开设新版面" href="board.php?name=NewBoard">申请开设新版面</a>
+        </li>
+    </ul>
+    </td>
+</tr>
+</table><table cellspacing="1" cellpadding="0" align="left" width="100%" class="TableBorder1 bar"><thead>
+ <tr>
+    <th id="TableTitleLink">    <a href="elite.php?file=%2Fbbslists%2Fboard2">人气版面</a>    </th>
+</tr>
+</thead><tr>    <td width="100%" class="TableBody1 barList" align="left">
+    	<ul>
+	<li> 	<a href="board.php?name=feeling">欲将心事付网中</a>	</li>	<li> 	<a href="board.php?name=SecondHand">跳蚤市场</a>
+	</li>	<li> 	<a href="board.php?name=Pictures">贴图板</a>
+	</li>	<li> 	<a href="board.php?name=SEUExpress">校园特快</a>
+	</li>	<li> 	<a href="board.php?name=PieBridge">缘分的天空</a>	</li>	<li> 	<a href="board.php?name=humour">幽默人生</a>
+	</li>	<li> 	<a href="board.php?name=Girls">女孩心声</a>	</li>	<li> 	<a href="board.php?name=Photography">摄影天地</a>	</li>	<li> 	<a href="board.php?name=jobs">打工一族</a>
+	</li>	<li> 	<a href="board.php?name=Astrology">星座</a>	</li>	</ul>    </td>
+</tr>
+</table><!--广告区-below_rank--> 
+<table cellspacing="1" cellpadding="0" align="left" width="100%" class="TableBorder1 bar"><thead>
+ <tr>
+    <th id="TableTitleLink">    <a href="boarddoc.php?name=LostAndFound&ftype=1">失物招领</a>
+    </th>
+</tr>
+</thead><tr>    <td width="100%" class="TableBody1 barList" align="left">
+    	<ul>
+			<li>
+		<a href="bbscon.php?board=LostAndFound&id=24&ftype=11">
+            [发文请先读]本版规则和发文规范 
+			</a>
+		</li>				<li>
+            <a href="bbscon.php?board=LostAndFound&id=9386">            [寻物]寻一卡通，卡号：220110720 			</a>
+		</li>
+	
+			<li>
+            <a href="bbscon.php?board=LostAndFound&id=9381">            [寻物]6.30香园食堂2楼炒菜窗口对面,丢失深色小包一个 
+			</a>
+		</li>
+	
+			<li>
+            <a href="bbscon.php?board=LostAndFound&id=9374">            [寻物] 钥匙 			</a>
+		</li>
+	
+			<li>
+            <a href="bbscon.php?board=LostAndFound&id=9373">            [招领]橘园门口拾到建行卡一张，卡号是6227 0013 7671 0115 *** 			</a>
+		</li>
+	
+			<li>
+            <a href="bbscon.php?board=LostAndFound&id=9372">            [招领]身份证 尹莹 			</a>
+		</li>
+	
+	 	</ul>    </td>
+</tr>
+</table><table cellspacing="1" cellpadding="0" align="left" width="100%" class="TableBorder1 bar"><thead>
+ <tr>
+    <th id="TableTitleLink">    <a href="board.php?name=Announce">站务公告</a>    </th>
+</tr>
+</thead><tr>    <td width="100%" class="TableBody1 barList" align="left">
+    	<ul>
+			<li>
+            <a href="bbscon.php?board=Announce&id=6463">            [站务]虎踞龙蟠BBS站2013年暑假工作安排 			</a>
+		</li>
+	
+			<li>
+            <a href="bbscon.php?board=Announce&id=6462">            [系统]本站将于6月28日停站维护 			</a>
+		</li>
+	
+			<li>
+            <a href="bbscon.php?board=Announce&id=6461">            [公告]虎踞龙蟠十四周年站庆活动获奖网友名单 
+			</a>
+		</li>
+	
+	 	</ul>    </td>
+</tr>
+</table><table cellspacing="1" cellpadding="0" align="left" width="100%" class="TableBorder1 bar"><thead>
+ <tr>
+    <th id="TableTitleLink">    <a href="board.php?name=Penalty">处罚公告</a>
+    </th>
+</tr>
+</thead><tr>    <td width="100%" class="TableBody1 barList" align="left">
+    	<ul>
+			<li>
+            <a href="bbscon.php?board=Penalty&id=738">            [处罚]封禁网友severusyue全站POST权限2周 			</a>
+		</li>
+	
+			<li>
+            <a href="bbscon.php?board=Penalty&id=737">            [处罚]直接删除帐号myeclipse 			</a>
+		</li>
+	
+			<li>
+            <a href="bbscon.php?board=Penalty&id=736">            [处罚]封禁网友wanghongchen全站POST权限2周 			</a>
+		</li>
+	
+	 	</ul>    </td>
+</tr>
+</table><table cellspacing="1" cellpadding="0" align="left" width="100%" class="TableBorder1 bar"><thead>
+ <tr>
+    <th id="TableTitleLink">    <a href="board.php?name=Blessing">今日祝福</a>    </th>
+</tr>
+</thead><tr>    <td width="100%" class="TableBody1 barList" align="left">
+    	<ul>
+	<li>
+	     <a href="disparticle.php?boardName=Blessing&ID=159954">
+		以下是 7 月 4 日的寿星:	     </a>
+	</li>	</ul>    </td>
+</tr>
+</table><!--广告区-below_bless-->
+              </div></div><table cellpadding=5 cellspacing=1 class=TableBorder1 align=center style="word-break:break-all;" width="97%">
+<TR><Th colSpan=2 align=left id=TableTitleLink height=25 style="font-weight:normal">	<b>-=&gt; 论坛在线统计</b>&nbsp;[<a href=showonlineuser.php>显示详细列表</a>]	<!--[<a href=boardstat.php?reaction=online>查看在线用户位置</a>]--></Th></TR><TR><TD width=100% vAlign=top class=TableBody1>  目前论坛上总共有 <b>2012</b> 人在线，其中注册用户 <b>584</b> 人，访客 <b>1428</b> 人。<!--<br>
+历史最高在线纪录是 <b> </b> 人同时在线-->
+</td></tr></table><br><table cellspacing=1 cellpadding=3 width="97%" border=0 align=center>
+<tr><td align=center><img src="pic/forum_nonews.gif" align="absmiddle">&nbsp;没有新的帖子&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="pic/forum_isnews.gif" align="absmiddle">&nbsp;有新的帖子&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="pic/forum_lock.gif" align="absmiddle">&nbsp;被锁定的论坛</td></tr>
+</table><br><p>
+<table cellSpacing="0" cellPadding="0" border="0" align="center">
+<tr>	<td align="center">	    <a href="http://wforum.aka.cn/" target="_blank"><img border="0" src="images/wforum.gif"/></a>		<a href="http://dev.kcn.cn/" target="_blank"><img border="0" src="images/poweredby.gif"/></a>&nbsp;&nbsp;<br/>		<nobr>Powered by wForum Version 0.9</nobr>	</td>	<td>
+		<table cellSpacing="0" cellPadding="0" border="0" align="center">
+		<tr>			<td align="center" nowrap="nowrap">				Copyright &copy; 虎踞龙蟠SBBS 1999 - 2012, All Rights Reserved.<br/>				 页面执行时间：243.322毫秒			</td>		</tr>
+		</table>	</td></tr>
+<tr><td colspan="2"></td>
+</tr>
+</table><script src="/static/js/jquery-ui.js" language="javascript"></script>
+<script src="inc/wforum.js" language="javascript"></script>
+<script src="inc/chat.js" language="javascript"></script>
+</body>
+</html>

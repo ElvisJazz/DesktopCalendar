@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="res\DesktopCalendar.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\DesktopCalendar.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\DAHVSC$1F)0Q7U}JJKW1(OH.gif">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="E:\1.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\INI\background.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\..\LoveCalendar\LoveCalendar\cat0.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\..\LoveCalendar\LoveCalendar\cat1.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\..\LoveCalendar\LoveCalendar\cat2.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\..\LoveCalendar\LoveCalendar\cat3.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\..\LoveCalendar\LoveCalendar\cat4.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\..\LoveCalendar\LoveCalendar\cat5.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\..\LoveCalendar\LoveCalendar\cat6.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\..\LoveCalendar\LoveCalendar\cat7.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\..\LoveCalendar\LoveCalendar\cat8.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\..\LoveCalendar\LoveCalendar\cat9.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\..\LoveCalendar\LoveCalendar\cat10.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\..\LoveCalendar\LoveCalendar\cat11.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\..\LoveCalendar\LoveCalendar\cat12.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="clock.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="clock~1.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DesktopCalendar.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DesktopCalendarDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CShockwaveFlash.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgBase.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PictureEx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DesktopDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DesktopMostDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyButton.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyStatic.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PropertyOp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DateSelecter.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AdvanceDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DisplayDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DisplayExDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MoreSetDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ScreenCutDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="WebpageHandler.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MySubscription.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyHttpClient.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkItem.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkProperties.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ListCtrlLink.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DrawerDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FileOperation.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CSpreadSheet.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TextInputDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FindMusic.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SetTaskDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DesktopCalendar.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DesktopCalendarDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CShockwaveFlash.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgBase.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PictureEx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DesktopDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DesktopMostDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MyButton.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MyStatic.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PropertyOp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DateSelecter.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvanceDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DisplayDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DisplayExDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MoreSetDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ScreenCutDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="WebpageHandler.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MySubscription.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MyHttpClient.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkItem.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkProperties.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ListCtrlLink.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DrawerDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FileOperation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CSpreadSheet.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TextInputDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FindMusic.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SetTaskDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="DesktopCalendar.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

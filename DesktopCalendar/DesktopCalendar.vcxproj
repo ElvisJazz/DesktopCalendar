@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{4E02C196-32E3-49A9-96BE-9BBA7E180EB5}</ProjectGuid>
+    <RootNamespace>DesktopCalendar</RootNamespace>
+    <Keyword>MFCProj</Keyword>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>Unicode</CharacterSet>
+    <UseOfMfc>Dynamic</UseOfMfc>
+    <CLRSupport>true</CLRSupport>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+    <UseOfMfc>Dynamic</UseOfMfc>
+    <CLRSupport>true</CLRSupport>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <EmbedManifest>false</EmbedManifest>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>
+      </AdditionalLibraryDirectories>
+    </Link>
+    <Midl>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+      <ValidateAllParameters>true</ValidateAllParameters>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0804</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+    <Midl>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+      <ValidateAllParameters>true</ValidateAllParameters>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0804</Culture>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <None Include="..\..\LoveCalendar\LoveCalendar\cat0.bmp" />
+    <None Include="..\..\LoveCalendar\LoveCalendar\cat1.bmp" />
+    <None Include="..\..\LoveCalendar\LoveCalendar\cat10.bmp" />
+    <None Include="..\..\LoveCalendar\LoveCalendar\cat11.bmp" />
+    <None Include="..\..\LoveCalendar\LoveCalendar\cat12.bmp" />
+    <None Include="..\..\LoveCalendar\LoveCalendar\cat2.bmp" />
+    <None Include="..\..\LoveCalendar\LoveCalendar\cat3.bmp" />
+    <None Include="..\..\LoveCalendar\LoveCalendar\cat4.bmp" />
+    <None Include="..\..\LoveCalendar\LoveCalendar\cat5.bmp" />
+    <None Include="..\..\LoveCalendar\LoveCalendar\cat6.bmp" />
+    <None Include="..\..\LoveCalendar\LoveCalendar\cat7.bmp" />
+    <None Include="..\..\LoveCalendar\LoveCalendar\cat8.bmp" />
+    <None Include="..\..\LoveCalendar\LoveCalendar\cat9.bmp" />
+    <None Include="..\INI\background.bmp" />
+    <None Include="clock.bmp" />
+    <None Include="clock~1.bmp" />
+    <None Include="E:\1.bmp" />
+    <None Include="ReadMe.txt" />
+    <None Include="res\DAHVSC$1F)0Q7U}JJKW1(OH.gif" />
+    <None Include="res\DesktopCalendar.ico" />
+    <None Include="res\DesktopCalendar.rc2" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AdvanceDlg.h" />
+    <ClInclude Include="CShockwaveFlash.h" />
+    <ClInclude Include="CSpreadSheet.h" />
+    <ClInclude Include="DateSelecter.h" />
+    <ClInclude Include="DesktopCalendar.h" />
+    <ClInclude Include="DesktopCalendarDlg.h" />
+    <ClInclude Include="DesktopDlg.h" />
+    <ClInclude Include="DesktopMostDlg.h" />
+    <ClInclude Include="DisplayDlg.h" />
+    <ClInclude Include="DisplayExDlg.h" />
+    <ClInclude Include="DlgBase.h" />
+    <ClInclude Include="DrawerDlg.h" />
+    <ClInclude Include="FileOperation.h" />
+    <ClInclude Include="FindMusic.h" />
+    <ClInclude Include="FlashDlg.h" />
+    <ClInclude Include="LinkItem.h" />
+    <ClInclude Include="LinkProperties.h" />
+    <ClInclude Include="ListCtrlLink.h" />
+    <ClInclude Include="MoreSetDlg.h" />
+    <ClInclude Include="MyButton.h" />
+    <ClInclude Include="MyHttpClient.h" />
+    <ClInclude Include="MyStatic.h" />
+    <ClInclude Include="MySubscription.h" />
+    <ClInclude Include="PictureEx.h" />
+    <ClInclude Include="PropertyOp.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="ScreenCutDlg.h" />
+    <ClInclude Include="SetTaskDlg.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="TextInputDlg.h" />
+    <ClInclude Include="WebpageHandler.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AdvanceDlg.cpp" />
+    <ClCompile Include="CShockwaveFlash.cpp" />
+    <ClCompile Include="CSpreadSheet.cpp" />
+    <ClCompile Include="DateSelecter.cpp" />
+    <ClCompile Include="DesktopCalendar.cpp" />
+    <ClCompile Include="DesktopCalendarDlg.cpp" />
+    <ClCompile Include="DesktopDlg.cpp" />
+    <ClCompile Include="DesktopMostDlg.cpp" />
+    <ClCompile Include="DisplayDlg.cpp" />
+    <ClCompile Include="DisplayExDlg.cpp" />
+    <ClCompile Include="DlgBase.cpp" />
+    <ClCompile Include="DrawerDlg.cpp" />
+    <ClCompile Include="FileOperation.cpp" />
+    <ClCompile Include="FindMusic.cpp" />
+    <ClCompile Include="FlashDlg.cpp" />
+    <ClCompile Include="LinkItem.cpp" />
+    <ClCompile Include="LinkProperties.cpp" />
+    <ClCompile Include="ListCtrlLink.cpp" />
+    <ClCompile Include="MoreSetDlg.cpp" />
+    <ClCompile Include="MyButton.cpp" />
+    <ClCompile Include="MyHttpClient.cpp" />
+    <ClCompile Include="MyStatic.cpp" />
+    <ClCompile Include="MySubscription.cpp" />
+    <ClCompile Include="PictureEx.cpp" />
+    <ClCompile Include="PropertyOp.cpp" />
+    <ClCompile Include="ScreenCutDlg.cpp" />
+    <ClCompile Include="SetTaskDlg.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="TextInputDlg.cpp" />
+    <ClCompile Include="WebpageHandler.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="DesktopCalendar.rc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties RESOURCE_FILE="DesktopCalendar.rc" _x007B_D27CDB6E-AE6D-11CF-96B8-444553540000_x007D_="CShockwaveFlash" />
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

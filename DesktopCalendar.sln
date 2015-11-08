@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DesktopCalendar", "DesktopCalendar\DesktopCalendar.vcxproj", "{4E02C196-32E3-49A9-96BE-9BBA7E180EB5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{72A77DD0-2EA6-4C1C-A499-9978B9A4B2BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E02C196-32E3-49A9-96BE-9BBA7E180EB5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4E02C196-32E3-49A9-96BE-9BBA7E180EB5}.Debug|Win32.Build.0 = Debug|Win32
+		{4E02C196-32E3-49A9-96BE-9BBA7E180EB5}.Release|Win32.ActiveCfg = Release|Win32
+		{4E02C196-32E3-49A9-96BE-9BBA7E180EB5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

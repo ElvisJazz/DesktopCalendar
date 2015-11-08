@@ -1,0 +1,986 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link type="text/css" href="/_css/_system/system.css" rel="stylesheet"/>       <LINK href="/_css/tpl2/default/portlet/dtjt/9/dtjt9.css" type="text/css" rel="stylesheet">
+       <LINK href="/_css/tpl2/system.css" type="text/css" rel="stylesheet">        <LINK href="/_css/tpl2/default/default.css" type="text/css" rel="stylesheet"> 
+<link type="text/css" href="/_js/_portletPlugs/simpleNews/css/simplenews.css" rel="stylesheet" />
+<link type="text/css" href="/_js/_portletPlugs/datepicker/css/datepicker.css" rel="stylesheet" />
+<link type="text/css" href="/_js/_portletPlugs/sudyNavi/css/sudyNav.css" rel="stylesheet" /><script language="javascript" src="/_js/jquery.min.js"></script><script language="javascript" src="/_js/jquery.sudy.wp.visitcount.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/datepicker/js/jquery.datepicker.js"></script><script type="text/javascript" src="/_js/_portletPlugs/datepicker/js/datepicker_lang_HK.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/sudyNavi/jquery.sudyNav.js"></script><script src="/_upload/tpl/00/9b/155/template155/My97DatePicker/WdatePicker.js"></script><title>教务处</title><style type="text/css">
+<!--body {	margin-left: 0px;	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;	background-color: #CCCCCC;
+}
+-->
+</style><link href="/_upload/tpl/00/9b/155/template155/css/main.css" rel="stylesheet" type="text/css" /></head>
+<body>	<div style="width:1004px; margin:0 auto;">
+    	<table width="1004" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>    <td><table width="1004" border="0" align="center" cellpadding="0" cellspacing="0">      <tr>        <td><img src="/_upload/tpl/00/9b/155/template155/images/top.jpg" width="1004" height="69" border="0" usemap="#Map" /></td>      </tr>
+      <tr>        <td height="44" background="/_upload/tpl/00/9b/155/template155/images/main.jpg"><table width="1004" border="0" cellpadding="0" cellspacing="0" class="font1">
+          <tr>            <td width="20">&nbsp;</td>            <td class="font1"><table border="0" cellspacing="0" cellpadding="0" class="font1">              <tr>                <td class="wlink"><div frag="面板1"> 
+<div frag="窗口1"> 
+<div id="wp_nav_w1"> 
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="wp_nav" data-nav-config="{drop_v: 'down', drop_w: 'right', dir: 'y', opacity_main: '1', opacity_sub: '0.8', dWidth: '0'}"> 
+<tr> 
+<td> 
+ 
+<table width="100%" border="0" cellspacing="0" cellpadding="0" >                    <tr>                      <td width="20" align="center">&nbsp;</td>
+                      <td> 
+ <div class="nav-item">  <div style="white-space:nowrap" class="font1"><a href="/main.htm" title="首页" class="font1" target="_self">首页</a></div>           </div> 
+</td>
+                    </tr>
+                </table></td> <td> 
+ 
+<table width="100%" border="0" cellspacing="0" cellpadding="0" >                    <tr>                      <td width="20" align="center">&nbsp;</td>
+                      <td> 
+ <div class="nav-item">  <div style="white-space:nowrap" class="font1"><a href="/9961/list.htm" title="教务管理" class="font1" target="_self">教务管理</a></div> 
+                   <ul class="sub-nav">                            <li class="nav-item i2-1 "> 
+                 <a href="/9963/list.htm" title="通知公告" target="_self"><span class="item-name">通知公告</span></a><i class="mark"></i>                                </li> 
+                           <li class="nav-item i2-2 "> 
+                 <a href="/9965/list.htm" title="学生选课" target="_self"><span class="item-name">学生选课</span></a><i class="mark"></i>                            <ul class="sub-nav">                            <li class="nav-item i2-2-1 "> 
+                 <a href="http://xk.urp.seu.edu.cn/jw_css/system/showLogin.action" title="正常选课" target="_blank"><span class="item-name">正常选课</span></a><i class="mark"></i>                                </li> 
+                           <li class="nav-item i2-2-2 "> 
+                 <a href="http://my.seu.edu.cn" title="补考与重修申请" target="_blank"><span class="item-name">补考与重修申请</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i2-2-3 "> 
+                 <a href="http://xk.urp.seu.edu.cn/studentService/system/showLogin.action" title="免修与辅修申请" target="_blank"><span class="item-name">免修与辅修申请</span></a><i class="mark"></i>                                </li> 
+                       </ul> 
+                       </li> 
+                           <li class="nav-item i2-3 "> 
+                 <a href="/9973/list.htm" title="报名管理" target="_self"><span class="item-name">报名管理</span></a><i class="mark"></i>                            <ul class="sub-nav">                            <li class="nav-item i2-3-1 "> 
+                 <a href="http://my.seu.edu.cn" title="转院(系)、转专业报名" target="_blank"><span class="item-name">转院(系)、转专业报名</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i2-3-2 "> 
+                 <a href="http://my.seu.edu.cn" title="全国四六级外语考试报名" target="_blank"><span class="item-name">全国四六级外语考试报名</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i2-3-3 "> 
+                 <a href="http://my.seu.edu.cn" title="江苏省计算机等级考试报名" target="_blank"><span class="item-name">江苏省计算机等级考试报名</span></a><i class="mark"></i> 
+                               </li> 
+                       </ul> 
+                       </li> 
+                           <li class="nav-item i2-4 "> 
+                 <a href="/9981/list.htm" title="课表查询" target="_self"><span class="item-name">课表查询</span></a><i class="mark"></i>                            <ul class="sub-nav">                            <li class="nav-item i2-4-1 "> 
+                 <a href="http://xk.urp.seu.edu.cn/jw_service/service/lookCurriculum.action" title="学生课表" target="_blank"><span class="item-name">学生课表</span></a><i class="mark"></i>                                </li> 
+                           <li class="nav-item i2-4-2 "> 
+                 <a href="http://xk.urp.seu.edu.cn/jw_service/service/academyClassToLook.action" title="全校开课查询" target="_blank"><span class="item-name">全校开课查询</span></a><i class="mark"></i>                                </li> 
+                           <li class="nav-item i2-4-3 "> 
+                 <a href="http://xk.urp.seu.edu.cn/jw_service/service/lookTeacherCurriculum.action" title="教师课表(09-10学年起)" target="_blank"><span class="item-name">教师课表(09-10学年起)</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i2-4-4 "> 
+                 <a href="http://58.192.114.197/admin/teaching_mis/pkxt/pksjtj025.asp" title="教师课表(08-09学年及之前)" target="_blank"><span class="item-name">教师课表(08-09学年及之前)</span></a><i class="mark"></i>                                </li> 
+                       </ul> 
+                       </li> 
+                           <li class="nav-item i2-5 "> 
+                 <a href="/9991/list.htm" title="考试安排" target="_self"><span class="item-name">考试安排</span></a><i class="mark"></i>                            <ul class="sub-nav">                            <li class="nav-item i2-5-1 "> 
+                 <a href="http://xk.urp.seu.edu.cn/studentService/system/showLogin.action" title="个人考试查询" target="_blank"><span class="item-name">个人考试查询</span></a><i class="mark"></i>                                </li> 
+                           <li class="nav-item i2-5-2 "> 
+                 <a href="http://xk.urp.seu.edu.cn/jw_service/service/runQueryClassDepartmentQueryAction.action" title="全校考试查询" target="_blank"><span class="item-name">全校考试查询</span></a><i class="mark"></i>                                </li> 
+                       </ul> 
+                       </li> 
+                           <li class="nav-item i2-6 "> 
+                 <a href="http://xk.urp.seu.edu.cn/studentService/system/showLogin.action" title="成绩查询" target="_blank"><span class="item-name">成绩查询</span></a><i class="mark"></i>                                </li> 
+                           <li class="nav-item i2-7 "> 
+                 <a href="/10000/list.htm" title="管理办法" target="_self"><span class="item-name">管理办法</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i2-8 "> 
+                 <a href="/10002/list.htm" title="常见问题" target="_self"><span class="item-name">常见问题</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i2-9 "> 
+                 <a href="/10004/list.htm" title="下载专区" target="_self"><span class="item-name">下载专区</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i2-10 ">                  <a href="/10006/list.htm" title="东大校历" target="_self"><span class="item-name">东大校历</span></a><i class="mark"></i> 
+                           <ul class="sub-nav">                            <li class="nav-item i2-10-1 ">                  <a href="/10008/list.htm" title="历年校历" target="_self"><span class="item-name">历年校历</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i2-10-2 ">                  <a href="/10010/list.htm" title="上课时间表" target="_self"><span class="item-name">上课时间表</span></a><i class="mark"></i> 
+                               </li> 
+                       </ul> 
+                       </li> 
+                           <li class="nav-item i2-11 ">                  <a href="http://xk.urp.seu.edu.cn/studentService/system/showLogin.action" title="学生在线系统" target="_blank"><span class="item-name">学生在线系统</span></a><i class="mark"></i>                                </li> 
+                           <li class="nav-item i2-12 ">                  <a href="http://xk.urp.seu.edu.cn/teacherService/system/showLogin.action" title="教师在线系统" target="_blank"><span class="item-name">教师在线系统</span></a><i class="mark"></i>                                </li> 
+                           <li class="nav-item i2-13 ">                  <a href="http://jwgl.urp.seu.edu.cn/epstar/web/swms/mainframe/home.jsp" title="教学管理系统" target="_blank"><span class="item-name">教学管理系统</span></a><i class="mark"></i>                                </li> 
+                       </ul> 
+          </div> 
+</td>
+                    </tr>
+                </table></td> <td> 
+ 
+<table width="100%" border="0" cellspacing="0" cellpadding="0" >                    <tr>                      <td width="20" align="center">&nbsp;</td>
+                      <td> 
+ <div class="nav-item">  <div style="white-space:nowrap" class="font1"><a href="/10018/list.htm" title="学籍管理" class="font1" target="_self">学籍管理</a></div>                    <ul class="sub-nav">                            <li class="nav-item i3-1 "> 
+                 <a href="/10020/list.htm" title="通知公告" target="_self"><span class="item-name">通知公告</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i3-2 "> 
+                 <a href="/10022/list.htm" title="管理办法" target="_self"><span class="item-name">管理办法</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i3-3 "> 
+                 <a href="/10024/list.htm" title="办理流程" target="_self"><span class="item-name">办理流程</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i3-4 "> 
+                 <a href="http://jwgl.urp.seu.edu.cn/epstar/login/index.jsp" title="学籍系统" target="_blank"><span class="item-name">学籍系统</span></a><i class="mark"></i>                                </li> 
+                           <li class="nav-item i3-5 "> 
+                 <a href="/10028/list.htm" title="学生管理" target="_self"><span class="item-name">学生管理</span></a><i class="mark"></i> 
+                           <ul class="sub-nav">                            <li class="nav-item i3-5-1 "> 
+                 <a href="/10030/list.htm" title="优秀生" target="_self"><span class="item-name">优秀生</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i3-5-2 "> 
+                 <a href="/10032/list.htm" title="免研生" target="_self"><span class="item-name">免研生</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i3-5-3 "> 
+                 <a href="/10034/list.htm" title="交流生" target="_self"><span class="item-name">交流生</span></a><i class="mark"></i> 
+                               </li> 
+                       </ul> 
+                       </li> 
+                           <li class="nav-item i3-6 "> 
+                 <a href="/10036/list.htm" title="学习辅导" target="_self"><span class="item-name">学习辅导</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i3-7 "> 
+                 <a href="/10038/list.htm" title="下载专区" target="_self"><span class="item-name">下载专区</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i3-8 "> 
+                 <a href="/10042/list.htm" title="工作职责" target="_self"><span class="item-name">工作职责</span></a><i class="mark"></i> 
+                               </li> 
+                       </ul> 
+          </div> 
+</td>
+                    </tr>
+                </table></td> <td> 
+ 
+<table width="100%" border="0" cellspacing="0" cellpadding="0" >                    <tr>                      <td width="20" align="center">&nbsp;</td>
+                      <td> 
+ <div class="nav-item">  <div style="white-space:nowrap" class="font1"><a href="/10044/list.htm" title="教学研究" class="font1" target="_self">教学研究</a></div>                    <ul class="sub-nav">                            <li class="nav-item i4-1 "> 
+                 <a href="http://zlgc.seu.edu.cn/jyk/" title="教研平台" target="_self"><span class="item-name">教研平台</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i4-2 "> 
+                 <a href="/10048/list.htm" title="通知公告" target="_self"><span class="item-name">通知公告</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i4-3 "> 
+                 <a href="http://zlgc.seu.edu.cn/jyk/Content/Html/jxjh/index.html" title="教学计划" target="_blank"><span class="item-name">教学计划</span></a><i class="mark"></i>                                </li> 
+                           <li class="nav-item i4-4 "> 
+                 <a href="http://zlgc.seu.edu.cn/jyk/Content/Html/zyjs/page1.htm" title="专业建设" target="_blank"><span class="item-name">专业建设</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i4-5 "> 
+                 <a href="http://zlgc.seu.edu.cn/seujpkc/Home/Index.maspx" title="课程建设" target="_blank"><span class="item-name">课程建设</span></a><i class="mark"></i>                                </li> 
+                           <li class="nav-item i4-6 "> 
+                 <a href="http://zlgc.seu.edu.cn/jyk/Content/Html/jcjs/page1.htm" title="教材建设" target="_blank"><span class="item-name">教材建设</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i4-7 "> 
+                 <a href="http://zlgc.seu.edu.cn/jyk/Content/Html/jxgg/page1.htm" title="教学改革" target="_blank"><span class="item-name">教学改革</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i4-8 "> 
+                 <a href="http://zlgc.seu.edu.cn/jyk/Content/Html/syqjs/page1.htm" title="实验区建设" target="_blank"><span class="item-name">实验区建设</span></a><i class="mark"></i>                                </li> 
+                           <li class="nav-item i4-9 "> 
+                 <a href="http://zlgc.seu.edu.cn/jyk/Content/Html/jxtd/page1.htm" title="教学团队" target="_blank"><span class="item-name">教学团队</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i4-10 ">                  <a href="http://zlgc.seu.edu.cn/jyk/Content/Html/jxms/page1.htm" title="教学名师" target="_blank"><span class="item-name">教学名师</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i4-11 ">                  <a href="http://zlgc.seu.edu.cn/jyk/Content/Html/jxcg/page1.htm" title="教学成果" target="_blank"><span class="item-name">教学成果</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i4-12 ">                  <a href="http://zlgc.seu.edu.cn/jyk/Content/Html/gzzz/page1.htm" title="工作职责" target="_blank"><span class="item-name">工作职责</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i4-13 ">                  <a href="/10071/list.htm" title="下载专区" target="_self"><span class="item-name">下载专区</span></a><i class="mark"></i> 
+                               </li> 
+                       </ul> 
+          </div> 
+</td>
+                    </tr>
+                </table></td> <td> 
+ 
+<table width="100%" border="0" cellspacing="0" cellpadding="0" >                    <tr>                      <td width="20" align="center">&nbsp;</td>
+                      <td> 
+ <div class="nav-item">  <div style="white-space:nowrap" class="font1"><a href="/10073/list.htm" title="教学评估" class="font1" target="_self">教学评估</a></div>                    <ul class="sub-nav">                            <li class="nav-item i5-1 "> 
+                 <a href="/10075/list.htm" title="通知公告" target="_self"><span class="item-name">通知公告</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i5-2 "> 
+                 <a href="/10077/list.htm" title="教学督导" target="_self"><span class="item-name">教学督导</span></a><i class="mark"></i> 
+                           <ul class="sub-nav">                            <li class="nav-item i5-2-1 "> 
+                 <a href="/10079/list.htm" title="校院督导" target="_self"><span class="item-name">校院督导</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i5-2-2 "> 
+                 <a href="/10087/list.htm" title="教学竞赛" target="_self"><span class="item-name">教学竞赛</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i5-2-3 "> 
+                 <a href="/10091/list.htm" title="首次开课" target="_self"><span class="item-name">首次开课</span></a><i class="mark"></i> 
+                               </li> 
+                       </ul> 
+                       </li> 
+                           <li class="nav-item i5-3 "> 
+                 <a href="/10092/list.htm" title="学生评教" target="_self"><span class="item-name">学生评教</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i5-4 "> 
+                 <a href="/10093/list.htm" title="教学检查" target="_self"><span class="item-name">教学检查</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i5-5 "> 
+                 <a href="/10094/list.htm" title="下载专区" target="_self"><span class="item-name">下载专区</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i5-6 "> 
+                 <a href="/10095/list.htm" title="归档公文" target="_self"><span class="item-name">归档公文</span></a><i class="mark"></i> 
+                               </li> 
+                       </ul> 
+          </div> 
+</td>
+                    </tr>
+                </table></td> <td> 
+ 
+<table width="100%" border="0" cellspacing="0" cellpadding="0" >                    <tr>                      <td width="20" align="center">&nbsp;</td>
+                      <td> 
+ <div class="nav-item">  <div style="white-space:nowrap" class="font1"><a href="/10096/list.htm" title="实践教学" class="font1" target="_self">实践教学</a></div>                    <ul class="sub-nav">                            <li class="nav-item i6-1 "> 
+                 <a href="/10097/list.htm" title="通知公告" target="_self"><span class="item-name">通知公告</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i6-2 "> 
+                 <a href="/10098/list.htm" title="毕业设计" target="_self"><span class="item-name">毕业设计</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i6-3 "> 
+                 <a href="/10099/list.htm" title="实习实践" target="_self"><span class="item-name">实习实践</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i6-4 "> 
+                 <a href="/10100/list.htm" title="实验教学" target="_self"><span class="item-name">实验教学</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i6-5 "> 
+                 <a href="http://srtp.seu.edu.cn" title="课外研学" target="_blank"><span class="item-name">课外研学</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i6-6 "> 
+                 <a href="/10105/list.htm" title="下载专区" target="_self"><span class="item-name">下载专区</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i6-7 "> 
+                 <a href="/10106/list.htm" title="归档公文" target="_self"><span class="item-name">归档公文</span></a><i class="mark"></i> 
+                               </li> 
+                       </ul> 
+          </div> 
+</td>
+                    </tr>
+                </table></td> <td> 
+ 
+<table width="100%" border="0" cellspacing="0" cellpadding="0" >                    <tr>                      <td width="20" align="center">&nbsp;</td>
+                      <td> 
+ <div class="nav-item">  <div style="white-space:nowrap" class="font1"><a href="/10107/list.htm" title="合作办学" class="font1" target="_self">合作办学</a></div>                    <ul class="sub-nav">                            <li class="nav-item i7-1 "> 
+                 <a href="/10108/list.htm" title="最新动态" target="_self"><span class="item-name">最新动态</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i7-2 "> 
+                 <a href="/10109/list.htm" title="通知公告" target="_self"><span class="item-name">通知公告</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i7-3 "> 
+                 <a href="/10110/list.htm" title="政策文件" target="_self"><span class="item-name">政策文件</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i7-4 "> 
+                 <a href="/10111/list.htm" title="成果展示" target="_self"><span class="item-name">成果展示</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i7-5 "> 
+                 <a href="/10112/list.htm" title="下载专区" target="_self"><span class="item-name">下载专区</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i7-6 "> 
+                 <a href="/10113/list.htm" title="资源中心" target="_self"><span class="item-name">资源中心</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i7-7 "> 
+                 <a href="/10114/list.htm" title="校企合作" target="_self"><span class="item-name">校企合作</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i7-8 "> 
+                 <a href="/10115/list.htm" title="国际合作" target="_self"><span class="item-name">国际合作</span></a><i class="mark"></i> 
+                               </li> 
+                           <li class="nav-item i7-9 "> 
+                 <a href="/10116/list.htm" title="学术社区" target="_self"><span class="item-name">学术社区</span></a><i class="mark"></i> 
+                               </li> 
+                       </ul> 
+          </div> 
+</td>
+                    </tr>
+                </table></td> <td> 
+ 
+<table width="100%" border="0" cellspacing="0" cellpadding="0" >                    <tr>                      <td width="20" align="center">&nbsp;</td>
+                      <td> 
+ <div class="nav-item">  <div style="white-space:nowrap" class="font1"><a href="http://58.192.114.179/zhuoyue" title="卓越计划" class="font1" target="_self">卓越计划</a></div>           </div> 
+</td>
+                    </tr>
+                </table></td> <td> 
+ 
+<table width="100%" border="0" cellspacing="0" cellpadding="0" >                    <tr>                      <td width="20" align="center">&nbsp;</td>
+                      <td> 
+ <div class="nav-item">  <div style="white-space:nowrap" class="font1"><a href="http://58.192.114.179/elearning/" title="新课程中心" class="font1" target="_blank">新课程中心</a></div>           </div> 
+</td>
+                    </tr>
+                </table></td> </tr> </table> 
+ </div> </div> 
+</div> 
+</td>
+              </tr>
+            </table></td>
+            <td width="200"><div frag="面板23"> <div frag="窗口23"> <form method="POST" action="/_web/search/doSearch.do?_p=YXM9NjMmdD0xNTUmZD00NzYmcD0xJm09U04m" target="_blank" onsubmit="if ($('#keyword').val() === '请输入关键字') { $('#keyword').val(''); }">    <div class="wp_search">
+        <table>
+            <tr>                <td height="25px">                    <input id="keyword" name="keyword" style="width: 150px" class="keyword" type="text" value="请输入关键字" onfocus="if (this.value === '请输入关键字') { this.value = ''; }" onblur="if (this.value === '') { this.value = '请输入关键字'; }" />                </td>
+                <td>                    <input name="btnsearch" class="search" type="submit" value=""/>
+                </td>
+            </tr>
+        </table>    </div></form> </div> 
+</div> 
+</td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>        <td height="271" background="/_upload/tpl/00/9b/155/template155/images/newsimage.jpg"><table width="950" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>            <td><table width="100%"  border="0" cellpadding="0" cellspacing="0" class="font2">              <tr>                <td><span frag="面板2" ><span frag="窗口2" portletmode="windowTitle" style="display: block; text-align: left;padding-left:33px;" >最新动态</span></span></td>
+              </tr>
+            </table></td>
+            <td width="380" rowspan="2"><div frag="面板12" style="padding-left:70px;"> 
+<div frag="窗口12"> <!-- 多图交替9 图片 标题 切换 -->
+<div style="position:relative;overflow:hidden;width:308px;height:203px;">
+    <div class="dtjt9_div_img">
+        <img id="w12imgShow" name="w12imgShow" onclick="w12openWindow();" style="FILTER: revealTrans(duration=2,transition=20); border: 0; cursor: pointer;" src="/..//_css/tpl/default/images/loading.gif" width="308px" height="203px" vspace="0">        <div id='w12imgNumber' class="number"></div>    </div>    <div class="dtjt9_div_text">        <div id='w12imgTitle' class="dtjt9_div_text_title"><a href="javascript:void(0)">&nbsp;</a></div>									
+    </div></div><script language="JavaScript" class="" >    var w12imgJsons = [
+                        {
+            "src" : "/_upload/article/e8/94/46a827fc41b0a7689674f2363399/24d1c4c9-8c50-4a90-abf4-3cbf4797b181_s.jpg",
+            "title" : "东南大学建校111周年庆祝大会",            "url" : "/5a/80/c10135a88704/page.htm"            },                                {
+            "src" : "/_upload/article/b8/69/a900d0414203bbbd99fe8c9dbb1f/879ca5dc-7ce5-4b76-8123-12d6d7d313b8_s.jpg",
+            "title" : "我校举行2013届本科生毕业典...",
+            "url" : "/5a/7c/c10135a88700/page.htm"            }];
+            </script>
+<script language="JavaScript">            var w12imgUrl = new Array();            var w12imgLink = new Array();
+            var w12imgTitle = new Array();            var w12count = 0;
+            var w12running = false;
+            var w12index = 0;
+            var w12nextAdTimer;
+            var w12k = 0;
+            function w12nextAd(num) {
+                if (num >= 0 && num < w12count - 1) {
+                    w12index = num;
+                    clearTimeout(w12nextAdTimer);
+                } else {                    num = w12index;
+                }
+                if (w12index > w12count - 1) {                    w12index = 0;
+                }
+                if (!w12running) {                    w12running = true;                } else if (document.all) {                    w12imgShow.filters.revealTrans.Transition = 50;
+                    w12imgShow.filters.revealTrans.apply();
+                    w12imgShow.filters.revealTrans.play();                }
+                document.getElementById('w12imgShow').src = w12imgUrl[w12index];                if (w12imgTitle[w12index] != '') {                    document.getElementById('w12imgTitle').innerHTML = '<a href="javascript:w12openWindow();" title="' + w12imgTitle[w12index] + '">' + w12imgTitle[w12index] + '</a>';
+                }
+                document.getElementById('w12imgNumber').innerHTML = "";
+                w12k = 0;
+                for (var i = 0; i < w12count; i++) {                    w12k++;
+                    if (i != w12index) {                        document.getElementById('w12imgNumber').innerHTML += '<a href="javascript:w12nextAd(' + i + ')" class="nomal">' + w12k + '</a>';                    } else {                        document.getElementById('w12imgNumber').innerHTML += '<a href="javascript:w12nextAd(' + i + ')" class="current">' + w12k + '</a>';                    }
+                }
+                w12index++;
+                if (w12count > 1) {
+                    w12nextAdTimer = setTimeout("w12nextAd(-1)", 4000);
+                }
+            }
+            function w12openWindow() {                var jumpUrl = w12imgLink[w12index - 1];
+                if (jumpUrl && jumpUrl != '') {
+                    window.open(jumpUrl);
+                }
+            }
+            $().ready(function() {                try {
+                    var objs = w12imgJsons;
+                    w12count = objs.length;
+                    if (w12count == 0) {                        document.getElementById('w12imgShow').style.display = "none";
+                        document.getElementById('w12imgNumber').style.display = "none";
+                        document.getElementById('w12imgTitle').style.display = "none";                        return;
+                    }
+                    for (var i = 0; i < objs.length; i++) {
+                        w12imgUrl[i] = objs[i].src;
+                        w12imgLink[i] = objs[i].url;                        w12imgTitle[i] = objs[i].title;
+                    }
+                    w12nextAd(-1);                } catch (e) {
+                }
+            });
+</script>
+ 
+</div> 
+</div> 
+</td>
+          </tr>
+          <tr>            <td><div frag="面板13" style="padding-left:20px;"> 
+<div frag="窗口13"> <div id="wp_news_w13"> 
+ 
+<table width="100%"  border="0" cellpadding="0" cellspacing="0" class="font1">               
+<tr>                <td width="20"><img src="/_upload/tpl/00/9b/155/template155/images/1_02.gif" width="20" height="30" /></td>
+                <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/0a/0c/c10176a133644/page.htm' target='_blank' title='关于开展2015-2016学年第二学期期中教学检查工作的通知' alt='关于开展2015-2016学年第二学期期中教学检查工作的通知'>关于开展2015-2016学年第二学期期中教学检查工作的通知</a></td> 
+ 
+<td align="left" width="30px"><div style="white-space:nowrap">2015-11-03</div></td>  
+</tr> </table> 
+</td>
+              </tr> <tr>                <td width="20"><img src="/_upload/tpl/00/9b/155/template155/images/1_02.gif" width="20" height="30" /></td>
+                <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/07/a3/c10176a133027/page.htm' target='_blank' title='2015年11月大学英语四、六级考试口语考试报名通知' alt='2015年11月大学英语四、六级考试口语考试报名通知'><font style='font-weight:bold;'>2015年11月大学英语四、六级考试口语考试报名通知</font></a></td>  
+<td align="left" width="30px"><div style="white-space:nowrap">2015-11-03</div></td>  
+</tr> </table> 
+</td>
+              </tr> <tr>                <td width="20"><img src="/_upload/tpl/00/9b/155/template155/images/1_02.gif" width="20" height="30" /></td>
+                <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/09/ac/c10176a133548/page.htm' target='_blank' title='2015-2016-2学期期中考试查询通知' alt='2015-2016-2学期期中考试查询通知'>2015-2016-2学期期中考试查询通知</a></td>  
+<td align="left" width="30px"><div style="white-space:nowrap">2015-11-02</div></td>  
+</tr> </table> 
+</td>
+              </tr> <tr>                <td width="20"><img src="/_upload/tpl/00/9b/155/template155/images/1_02.gif" width="20" height="30" /></td>
+                <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/09/a2/c10176a133538/page.htm' target='_blank' title='东南大学2014-15学年大类课程奖评审结果公示' alt='东南大学2014-15学年大类课程奖评审结果公示'>东南大学2014-15学年大类课程奖评审结果公示</a></td> 
+ 
+<td align="left" width="30px"><div style="white-space:nowrap">2015-11-02</div></td>  
+</tr> </table> 
+</td>
+              </tr> <tr>                <td width="20"><img src="/_upload/tpl/00/9b/155/template155/images/1_02.gif" width="20" height="30" /></td>
+                <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/08/f9/c10176a133369/page.htm' target='_blank' title='2015级新生预收教材款退款通知' alt='2015级新生预收教材款退款通知'>2015级新生预收教材款退款通知</a></td> 
+ 
+<td align="left" width="30px"><div style="white-space:nowrap">2015-10-29</div></td>  
+</tr> </table> 
+</td>
+              </tr> <tr>                <td width="20"><img src="/_upload/tpl/00/9b/155/template155/images/1_02.gif" width="20" height="30" /></td>
+                <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/06/a1/c10176a132769/page.htm' target='_blank' title='15-16-2学期不及格课程重修开课情况一览表' alt='15-16-2学期不及格课程重修开课情况一览表'>15-16-2学期不及格课程重修开课情况一览表</a></td>  
+<td align="left" width="30px"><div style="white-space:nowrap">2015-10-21</div></td>  
+</tr> </table> 
+</td>
+              </tr>             </table></div> 
+ 
+</div> 
+</div> 
+</td>
+            </tr>
+        </table></td>
+      </tr>
+      <tr>        <td><table id="__01" width="1004" height="75" border="0" cellpadding="0" cellspacing="0">
+          <tr>            <td><a href="http://xk.urp.seu.edu.cn/studentService/system/showLogin.action" target="_blank"><img src="/_upload/tpl/00/9b/155/template155/images/link_01.jpg" alt="" width="147" height="75" border="0" /></a></td>            <td><a href="http://xk.urp.seu.edu.cn/teacherService/system/showLogin.action" target="_blank"><img src="/_upload/tpl/00/9b/155/template155/images/link_02.jpg" alt="" width="142" height="75" border="0" /></a></td>            <td><a href="http://jpkc.seu.edu.cn/sc8/" target="_blank"><img src="/_upload/tpl/00/9b/155/template155/images/link_03.jpg" alt="" width="142" height="75" border="0" /></a></td>            <td><a href="http://jwc.seu.edu.cn/10101/list.htm" target="_blank"><img src="/_upload/tpl/00/9b/155/template155/images/link_04.jpg" alt="" width="142" height="75" border="0" /></a></td>
+            <td><a href="http://58.192.114.179/international" target="_blank"><img src="/_upload/tpl/00/9b/155/template155/images/link_05.jpg" alt="" width="142" height="75" border="0" /></a></td>            <td><a href="http://jwc.seu.edu.cn/10004/list.htm" target="_blank"><img src="/_upload/tpl/00/9b/155/template155/images/link_06.jpg" alt="" width="142" height="75" border="0" /></a></td>
+            <td><a href="http://jwc.seu.edu.cn/59/83/c10146a88451/page.htm" target="_blank"><img src="/_upload/tpl/00/9b/155/template155/images/link_07.jpg" alt="" width="147" height="75" border="0" /></a></td>          </tr>
+        </table></td>
+      </tr>
+      <tr>        <td><table width="1004" border="0" cellspacing="0" cellpadding="0">
+          <tr>            <td width="205" valign="top" bgcolor="#FFFFFF"><table id="__01" width="205" height="990" border="0" cellpadding="0" cellspacing="0">              <tr>                <td colspan="2"><img src="/_upload/tpl/00/9b/155/template155/images/left_01.jpg" width="205" height="3" alt="" /></td>              </tr>
+              <tr>                <td height="29" colspan="2" background="/_upload/tpl/00/9b/155/template155/images/left_02.jpg"><table width="100%"  border="0" cellpadding="0" cellspacing="0" class="font4">
+                  <tr>                    <td width="80">&nbsp;</td>                    <td>日历</td>
+                    <td width="10">&nbsp;</td>                  </tr>
+                </table></td>
+              </tr>
+              <tr>                <td colspan="2"><img src="/_upload/tpl/00/9b/155/template155/images/left_03.jpg" width="205" height="16" alt="" /></td>
+              </tr>
+              <tr valign="top">
+                <td height="188" colspan="2" valign="middle" background="/_upload/tpl/00/9b/155/template155/images/left_04.jpg"><table width="100%"  border="0" cellspacing="0" cellpadding="0">                  <tr>                    <td><table width="187"  border="0" cellpadding="0" cellspacing="0" class="font3" style="margin:0 auto;">                      <tr>                        <td><div id="div1" ></div></td>
+                      </tr>
+                    </table></td>
+                  </tr>
+                </table></td>
+              </tr>
+              <tr>                <td height="30" colspan="2" background="/_upload/tpl/00/9b/155/template155/images/left_05.jpg"><table width="100%"  border="0" cellpadding="0" cellspacing="0" class="font4">
+                  <tr>                    <td width="80">&nbsp;</td>                    <td><span frag="面板4"><span frag="窗口4" portletmode="windowTitle" style="display: block; text-align: left;" >友情链接</span></span></td>                    <td width="10">&nbsp;</td>                  </tr>
+                </table></td>
+              </tr>
+              <tr>                <td colspan="2"><img src="/_upload/tpl/00/9b/155/template155/images/left_06.jpg" width="205" height="22" alt="" /></td>
+              </tr>
+              <tr valign="top">
+                <td height="133" colspan="2" background="/_upload/tpl/00/9b/155/template155/images/left_07.jpg"><table width="100%"  border="0" cellspacing="0" cellpadding="0">                  <tr>                    <td width="10">&nbsp;</td>                    <td><table width="100%"  border="0" cellpadding="0" cellspacing="0" class="font3">                        <tr>                          <td><div frag="面板3"> 
+<div frag="窗口3"> 
+<div id="wp_news_w3">  
+<table border="0" cellpadding="0" cellspacing="0" class="font3">                             
+<tr>                              <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                              <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='http://www.seu.edu.cn' target='_blank' title='东南大学主页' alt='东南大学主页'>东南大学主页</a></td> 
+ 
+</tr> </table> 
+</td>
+                            </tr> <tr>                              <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                              <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='http://jwc.seu.edu.cn/c4/4e/c12109a115790/page.htm' target='_blank' title='教务处规章制度' alt='教务处规章制度'>教务处规章制度</a></td> 
+ 
+</tr> </table> 
+</td>
+                            </tr> <tr>                              <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                              <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='http://jwc.seu.edu.cn/ba/3d/c12109a113213/page.htm' target='_blank' title='本科教学情况' alt='本科教学情况'>本科教学情况</a></td>  
+</tr> </table> 
+</td>
+                            </tr> <tr>                              <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                              <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='http://jwc.seu.edu.cn/10006/list.htm' target='_blank' title='东大校历' alt='东大校历'>东大校历</a></td>  
+</tr> </table> 
+</td>
+                            </tr> <tr>                              <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                              <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='http://news.seu.edu.cn' target='_blank' title='东大新闻网' alt='东大新闻网'>东大新闻网</a></td> 
+ 
+</tr> </table> 
+</td>
+                            </tr>                           </table></div> 
+<div class="more"><a class="more-link" href="/10133/list.htm" title="显示更多" alt="显示更多"><span class="moretext"><img src="/_js/_portletPlugs/simpleNews/css/icon_more_1.gif" border="0"/></span></a></div> </div> 
+</div> 
+</td>
+                        </tr>
+                    </table></td>
+                    <td width="10">&nbsp;</td>                  </tr>
+                </table></td>
+              </tr>
+              <tr>                <td colspan="2"><img src="/_upload/tpl/00/9b/155/template155/images/left_08.jpg" width="205" height="4" alt="" /></td>              </tr>
+              <tr>                <td height="29" colspan="2" background="/_upload/tpl/00/9b/155/template155/images/left_09.jpg"><table width="100%"  border="0" cellpadding="0" cellspacing="0" class="font4">
+                  <tr>                    <td width="80">&nbsp;</td>                    <td>工作职责</td>
+                    <td width="10">&nbsp;</td>                  </tr>
+                </table></td>
+              </tr>
+              <tr>                <td colspan="2"><img src="/_upload/tpl/00/9b/155/template155/images/left_10.jpg" width="205" height="25" alt="" /></td>
+              </tr>
+              <tr>                <td colspan="2"><img src="/_upload/tpl/00/9b/155/template155/images/left_11.jpg" width="205" height="80" alt="" /></td>
+              </tr>
+              <tr>                <td colspan="2"><img src="/_upload/tpl/00/9b/155/template155/images/left_12.jpg" width="205" height="73" alt="" /></td>
+              </tr>
+              <tr>                <td colspan="2"><img src="/_upload/tpl/00/9b/155/template155/images/left_13.jpg" width="205" height="74" alt="" /></td>
+              </tr>
+              <tr>                <td colspan="2"><img src="/_upload/tpl/00/9b/155/template155/images/left_14.jpg" width="205" height="75" alt="" /></td>
+              </tr>
+              <tr>                <td colspan="2"><img src="/_upload/tpl/00/9b/155/template155/images/left_15.jpg" width="205" height="74" alt="" /></td>
+              </tr>
+              <tr>                <td colspan="2"><a href="http://jwc.seu.edu.cn/59/83/c10146a88451/page.htm" target="_blank"><img src="/_upload/tpl/00/9b/155/template155/images/left_16.jpg" alt="" width="205" height="45" border="0" /></a></td>              </tr>
+              <tr>                <td colspan="2"><a href="http://bbs.seu.edu.cn/bbsdoc.php?board=M_Academic" target="_blank"><img src="/_upload/tpl/00/9b/155/template155/images/logo.jpg" width="205" height="90" border="0" /></a></td>                </tr>
+            </table></td>
+            <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">              <tr>                <td><table id="__01" width="799" height="165" border="0" cellpadding="0" cellspacing="0">
+                  <tr>                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right1_01.jpg" width="5" height="35" alt="" /></td>
+                    <td background="/_upload/tpl/00/9b/155/template155/images/right1_02.jpg"><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+                      <tr>                        <td><table width="100%"  border="0" cellpadding="0" cellspacing="0" class="font3">                          <tr>                            <td><span frag="面板11"><span frag="窗口11" portletmode="windowTitle" style="display: block; text-align: left;" >教务信息</span></span></td>                          </tr>
+                        </table></td>
+                        <td width="100"><table width="100%"  border="0" cellpadding="0" cellspacing="0" class="font3">                          <tr>                            <td><span frag="面板14"><span frag="窗口14" portletmode="windowMore"  ><span class="more"><a class="more-link" href="/9963/list.htm" title="显示更多" alt="显示更多"><span class="moretext"><img src="/_js/_portletPlugs/simpleNews/css/icon_more_1.gif" border="0"/></span></a></span></span></span></td>                          </tr>
+                        </table></td>
+                      </tr>
+                    </table></td>
+                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right1_03.jpg" width="13" height="35" alt="" /></td>                  </tr>
+                  <tr>                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right1_04.jpg" width="5" height="175" alt="" /></td>                    <td valign="top" background="/_upload/tpl/00/9b/155/template155/images/right1_05.jpg"><div frag="面板5"> 
+<div frag="窗口5"> 
+<div id="wp_news_w5">  
+<table width="100%"  border="0" cellpadding="0" cellspacing="0" class="font3">                       
+<tr>                        <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                        <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/0a/0c/c9963a133644/page.htm' target='_blank' title='关于开展2015-2016学年第二学期期中教学检查工作的通知' alt='关于开展2015-2016学年第二学期期中教学检查工作的通知'>关于开展2015-2016学年第二学期期中教学检查工作的通知</a></td>  
+<td align="left" width="30px"><div style="white-space:nowrap"><img src='/_js/_portletPlugs/simpleNews/images/new.gif' /></div></td>  
+<td align="left" width="30px"><div style="white-space:nowrap">2015-11-03</div></td>  
+</tr> </table> 
+</td>
+                      </tr> <tr>                        <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                        <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/07/a3/c9963a133027/page.htm' target='_blank' title='2015年11月大学英语四、六级考试口语考试报名通知' alt='2015年11月大学英语四、六级考试口语考试报名通知'><font style='font-weight:bold;'>2015年11月大学英语四、六级考试口语考试报名通知</font></a></td> 
+ 
+<td align="left" width="30px"><div style="white-space:nowrap"><img src='/_js/_portletPlugs/simpleNews/images/new.gif' /></div></td>  
+<td align="left" width="30px"><div style="white-space:nowrap">2015-11-03</div></td>  
+</tr> </table> 
+</td>
+                      </tr> <tr>                        <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                        <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/09/ac/c9963a133548/page.htm' target='_blank' title='2015-2016-2学期期中考试查询通知' alt='2015-2016-2学期期中考试查询通知'>2015-2016-2学期期中考试查询通知</a></td> 
+ 
+<td align="left" width="30px"><div style="white-space:nowrap"><img src='/_js/_portletPlugs/simpleNews/images/new.gif' /></div></td>  
+<td align="left" width="30px"><div style="white-space:nowrap">2015-11-02</div></td>  
+</tr> </table> 
+</td>
+                      </tr> <tr>                        <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                        <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/09/a2/c9963a133538/page.htm' target='_blank' title='东南大学2014-15学年大类课程奖评审结果公示' alt='东南大学2014-15学年大类课程奖评审结果公示'>东南大学2014-15学年大类课程奖评审结果公示</a></td>  
+<td align="left" width="30px"><div style="white-space:nowrap"></div></td>  
+<td align="left" width="30px"><div style="white-space:nowrap">2015-11-02</div></td>  
+</tr> </table> 
+</td>
+                      </tr> <tr>                        <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                        <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/08/f9/c9963a133369/page.htm' target='_blank' title='2015级新生预收教材款退款通知' alt='2015级新生预收教材款退款通知'>2015级新生预收教材款退款通知</a></td>  
+<td align="left" width="30px"><div style="white-space:nowrap"><img src='/_js/_portletPlugs/simpleNews/images/new.gif' /></div></td>  
+<td align="left" width="30px"><div style="white-space:nowrap">2015-10-29</div></td>  
+</tr> </table> 
+</td>
+                      </tr> <tr>                        <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                        <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/06/a1/c9963a132769/page.htm' target='_blank' title='15-16-2学期不及格课程重修开课情况一览表' alt='15-16-2学期不及格课程重修开课情况一览表'>15-16-2学期不及格课程重修开课情况一览表</a></td> 
+ 
+<td align="left" width="30px"><div style="white-space:nowrap"><img src='/_js/_portletPlugs/simpleNews/images/new.gif' /></div></td>  
+<td align="left" width="30px"><div style="white-space:nowrap">2015-10-21</div></td>  
+</tr> </table> 
+</td>
+                      </tr> <tr>                        <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                        <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/fe/38/c9963a130616/page.htm' target='_blank' title='15-16-2学期医科物理实验开课通知' alt='15-16-2学期医科物理实验开课通知'>15-16-2学期医科物理实验开课通知</a></td> 
+ 
+<td align="left" width="30px"><div style="white-space:nowrap"><img src='/_js/_portletPlugs/simpleNews/images/new.gif' /></div></td>  
+<td align="left" width="30px"><div style="white-space:nowrap">2015-10-16</div></td>  
+</tr> </table> 
+</td>
+                      </tr>                     </table></div> 
+ 
+</div> 
+</div> 
+</td>
+                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right1_06.jpg" width="13" height="175" alt="" /></td>
+                  </tr>
+                  <tr>                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right1_07.jpg" width="5" height="5" alt="" /></td>                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right1_08.jpg" width="781" height="5" alt="" /></td>                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right1_09.jpg" width="13" height="5" alt="" /></td>
+                  </tr>
+                </table></td>
+              </tr>
+              <tr>                <td><table id="__01" width="799" border="0" cellpadding="0" cellspacing="0">                  <tr>                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right3_01.jpg" width="5" height="34" alt="" /></td>
+                    <td background="/_upload/tpl/00/9b/155/template155/images/right3_02.jpg"><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+                      <tr>                        <td><table width="100%"  border="0" cellpadding="0" cellspacing="0" class="font3">                            <tr>                              <td><span frag="面板15"><span frag="窗口15" portletmode="windowTitle" style="display: block; text-align: left;" >学籍管理</span></span></td>                            </tr>
+                        </table></td>
+                        <td width="100"><table width="100%"  border="0" cellpadding="0" cellspacing="0" class="font3">                            <tr>                              <td><span frag="面板16"><span frag="窗口16" portletmode="windowMore"  ><span class="more"><a class="more-link" href="/10020/list.htm" title="显示更多" alt="显示更多"><span class="moretext"><img src="/_js/_portletPlugs/simpleNews/css/icon_more_1.gif" border="0"/></span></a></span></span></span></td>
+                            </tr>
+                        </table></td>
+                      </tr>
+                    </table></td>
+                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right3_03.jpg" width="13" height="34" alt="" /></td>                  </tr>
+                  <tr>                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right3_04.jpg" width="5" height="175" alt="" /></td>                    <td valign="top" background="/_upload/tpl/00/9b/155/template155/images/right3_05.jpg"><div frag="面板6"> 
+<div frag="窗口6"> 
+<div id="wp_news_w6">  
+<table width="100%"  border="0" cellpadding="0" cellspacing="0" class="font3">                       
+<tr>                        <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                        <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/0a/6f/c10020a133743/page.htm' target='_blank' title='2015年秋季学习辅导系列讲座—如何学习大学英语' alt='2015年秋季学习辅导系列讲座—如何学习大学英语'>2015年秋季学习辅导系列讲座—如何学习大学英语</a></td> 
+ 
+<td align="left" width="30px"><div style="white-space:nowrap"><img src='/_js/_portletPlugs/simpleNews/images/new.gif' /></div></td>  
+<td align="left" width="30px"><div style="white-space:nowrap">2015-11-05</div></td>  
+</tr> </table> 
+</td>
+                      </tr> <tr>                        <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                        <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/0a/3a/c10020a133690/page.htm' target='_blank' title='关于做好2015-2016学年本科生火车票优惠卡充值的通知' alt='关于做好2015-2016学年本科生火车票优惠卡充值的通知'>关于做好2015-2016学年本科生火车票优惠卡充值的通知</a></td>  
+<td align="left" width="30px"><div style="white-space:nowrap"><img src='/_js/_portletPlugs/simpleNews/images/new.gif' /></div></td>  
+<td align="left" width="30px"><div style="white-space:nowrap">2015-11-04</div></td>  
+</tr> </table> 
+</td>
+                      </tr> <tr>                        <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                        <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/09/e4/c10020a133604/page.htm' target='_blank' title='关于从保研生中选拔2017年赴法国人文与材料学校参加双硕士项目人选的通知' alt='关于从保研生中选拔2017年赴法国人文与材料学校参加双硕士项目人选的通知'>关于从保研生中选拔2017年赴法国人文与材料学校参加双硕士项目人...</a></td>  
+<td align="left" width="30px"><div style="white-space:nowrap"><img src='/_js/_portletPlugs/simpleNews/images/new.gif' /></div></td>  
+<td align="left" width="30px"><div style="white-space:nowrap">2015-11-03</div></td>  
+</tr> </table> 
+</td>
+                      </tr> <tr>                        <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                        <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/09/c5/c10020a133573/page.htm' target='_blank' title='香港浸会大学研究生招生说明会' alt='香港浸会大学研究生招生说明会'>香港浸会大学研究生招生说明会</a></td> 
+ 
+<td align="left" width="30px"><div style="white-space:nowrap"><img src='/_js/_portletPlugs/simpleNews/images/new.gif' /></div></td>  
+<td align="left" width="30px"><div style="white-space:nowrap">2015-11-03</div></td>  
+</tr> </table> 
+</td>
+                      </tr> <tr>                        <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                        <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/08/db/c10020a133339/page.htm' target='_blank' title='2015年秋季学习辅导系列讲座—程序设计与算法语言的学习入门' alt='2015年秋季学习辅导系列讲座—程序设计与算法语言的学习入门'>2015年秋季学习辅导系列讲座—程序设计与算法语言的学习入门</a></td> 
+ 
+<td align="left" width="30px"><div style="white-space:nowrap"></div></td>  
+<td align="left" width="30px"><div style="white-space:nowrap">2015-10-29</div></td>  
+</tr> </table> 
+</td>
+                      </tr> <tr>                        <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                        <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/08/d5/c10020a133333/page.htm' target='_blank' title='2015年秋季学习辅导系列讲座—怎样学好高等数学' alt='2015年秋季学习辅导系列讲座—怎样学好高等数学'>2015年秋季学习辅导系列讲座—怎样学好高等数学</a></td> 
+ 
+<td align="left" width="30px"><div style="white-space:nowrap"></div></td>  
+<td align="left" width="30px"><div style="white-space:nowrap">2015-10-29</div></td>  
+</tr> </table> 
+</td>
+                      </tr> <tr>                        <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                        <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/08/d4/c10020a133332/page.htm' target='_blank' title='2015年秋季学习辅导系列讲座—怎样学好几何与代数 ' alt='2015年秋季学习辅导系列讲座—怎样学好几何与代数 '>2015年秋季学习辅导系列讲座—怎样学好几何与代数 </a></td> 
+ 
+<td align="left" width="30px"><div style="white-space:nowrap"></div></td>  
+<td align="left" width="30px"><div style="white-space:nowrap">2015-10-29</div></td>  
+</tr> </table> 
+</td>
+                      </tr>                     </table></div> 
+ 
+</div> 
+</div> 
+</td>
+                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right3_06.jpg" width="13" height="175" alt="" /></td>
+                  </tr>
+                  <tr>                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right3_07.jpg" width="5" height="5" alt="" /></td>                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right3_08.jpg" width="781" height="5" alt="" /></td>                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right3_09.jpg" width="13" height="5" alt="" /></td>
+                  </tr>
+                </table></td>
+              </tr>
+              <tr>                <td><table id="__01" width="799" border="0" cellpadding="0" cellspacing="0">                  <tr>                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right2_01.jpg" width="5" height="34" alt="" /></td>
+                    <td background="/_upload/tpl/00/9b/155/template155/images/right2_02.jpg"><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+                      <tr>                        <td><table width="100%"  border="0" cellpadding="0" cellspacing="0" class="font3">                            <tr>                              <td><span frag="面板17"><span frag="窗口17" portletmode="windowTitle" style="display: block; text-align: left;" >实践教学</span></span></td>                            </tr>
+                        </table></td>
+                        <td width="100"><table width="100%"  border="0" cellpadding="0" cellspacing="0" class="font3">                            <tr>                              <td><span frag="面板18"><span frag="窗口18" portletmode="windowMore"  ><span class="more"><a class="more-link" href="/10097/list.htm" title="显示更多" alt="显示更多"><span class="moretext"><img src="/_js/_portletPlugs/simpleNews/css/icon_more_1.gif" border="0"/></span></a></span></span></span></td>
+                            </tr>
+                        </table></td>
+                      </tr>
+                    </table></td>
+                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right2_03.jpg" width="13" height="34" alt="" /></td>                  </tr>
+                  <tr>                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right2_04.jpg" width="5" height="175" alt="" /></td>                    <td valign="top" background="/_upload/tpl/00/9b/155/template155/images/right2_05.jpg"><div frag="面板7"> 
+<div frag="窗口7"> 
+<div id="wp_news_w7">  
+<table width="100%"  border="0" cellpadding="0" cellspacing="0" class="font3">                       
+<tr>                        <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                        <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/0a/32/c10097a133682/page.htm' target='_blank' title='第一届赛尔网络下一代互联网技术创新大赛延长报名日期的通知' alt='第一届赛尔网络下一代互联网技术创新大赛延长报名日期的通知'>第一届赛尔网络下一代互联网技术创新大赛延长报名日期的通知</a></td> 
+ 
+<td align="left" width="30px"><div style="white-space:nowrap"><img src='/_js/_portletPlugs/simpleNews/images/new.gif' /></div></td>  
+<td align="left" width="30px"><div style="white-space:nowrap">2015-11-04</div></td>  
+</tr> </table> 
+</td>
+                      </tr> <tr>                        <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                        <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/09/f9/c10097a133625/page.htm' target='_blank' title='关于举办“东南大学第十二届RoboCup机器人竞赛”的通知' alt='关于举办“东南大学第十二届RoboCup机器人竞赛”的通知'>关于举办“东南大学第十二届RoboCup机器人竞赛”的通知</a></td>  
+<td align="left" width="30px"><div style="white-space:nowrap"><img src='/_js/_portletPlugs/simpleNews/images/new.gif' /></div></td>  
+<td align="left" width="30px"><div style="white-space:nowrap">2015-11-03</div></td>  
+</tr> </table> 
+</td>
+                      </tr> <tr>                        <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                        <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/09/d7/c10097a133591/page.htm' target='_blank' title='课外研学讲座—从AI到AI' alt='课外研学讲座—从AI到AI'>课外研学讲座—从AI到AI</a></td>  
+<td align="left" width="30px"><div style="white-space:nowrap"><img src='/_js/_portletPlugs/simpleNews/images/new.gif' /></div></td>  
+<td align="left" width="30px"><div style="white-space:nowrap">2015-11-03</div></td>  
+</tr> </table> 
+</td>
+                      </tr> <tr>                        <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                        <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/09/c9/c10097a133577/page.htm' target='_blank' title='关于举办“第二届东南大学—中兴通讯卓越大赛”的通知' alt='关于举办“第二届东南大学—中兴通讯卓越大赛”的通知'>关于举办“第二届东南大学—中兴通讯卓越大赛”的通知</a></td>  
+<td align="left" width="30px"><div style="white-space:nowrap"><img src='/_js/_portletPlugs/simpleNews/images/new.gif' /></div></td>  
+<td align="left" width="30px"><div style="white-space:nowrap">2015-11-03</div></td>  
+</tr> </table> 
+</td>
+                      </tr> <tr>                        <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                        <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/09/bb/c10097a133563/page.htm' target='_blank' title='课外研学讲座--水环境生态修复——兼谈海绵城市建设' alt='课外研学讲座--水环境生态修复——兼谈海绵城市建设'>课外研学讲座--水环境生态修复——兼谈海绵城市建设</a></td>  
+<td align="left" width="30px"><div style="white-space:nowrap"><img src='/_js/_portletPlugs/simpleNews/images/new.gif' /></div></td>  
+<td align="left" width="30px"><div style="white-space:nowrap">2015-11-02</div></td>  
+</tr> </table> 
+</td>
+                      </tr> <tr>                        <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                        <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/09/b9/c10097a133561/page.htm' target='_blank' title='课外研学讲座--高科技窃密挑战下的安全保密防范' alt='课外研学讲座--高科技窃密挑战下的安全保密防范'>课外研学讲座--高科技窃密挑战下的安全保密防范</a></td>  
+<td align="left" width="30px"><div style="white-space:nowrap"><img src='/_js/_portletPlugs/simpleNews/images/new.gif' /></div></td>  
+<td align="left" width="30px"><div style="white-space:nowrap">2015-11-02</div></td>  
+</tr> </table> 
+</td>
+                      </tr> <tr>                        <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                        <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/09/b7/c10097a133559/page.htm' target='_blank' title='课外研学讲座--关注两性教育，提高避孕意识' alt='课外研学讲座--关注两性教育，提高避孕意识'>课外研学讲座--关注两性教育，提高避孕意识</a></td>  
+<td align="left" width="30px"><div style="white-space:nowrap"><img src='/_js/_portletPlugs/simpleNews/images/new.gif' /></div></td>  
+<td align="left" width="30px"><div style="white-space:nowrap">2015-11-02</div></td>  
+</tr> </table> 
+</td>
+                      </tr>                     </table></div> 
+ 
+</div> 
+</div> 
+</td>
+                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right2_06.jpg" width="13" height="175" alt="" /></td>
+                  </tr>
+                  <tr>                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right2_07.jpg" width="5" height="5" alt="" /></td>                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right2_08.jpg" width="781" height="5" alt="" /></td>                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right2_09.jpg" width="13" height="5" alt="" /></td>
+                  </tr>
+                </table></td>
+              </tr>
+              <tr>                <td><table id="__01" width="799" height="141" border="0" cellpadding="0" cellspacing="0">
+                  <tr>                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right2_01.jpg" width="5" height="34" alt="" /></td>
+                    <td background="/_upload/tpl/00/9b/155/template155/images/right2_02.jpg"><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+                        <tr>                          <td><table width="100%"  border="0" cellpadding="0" cellspacing="0" class="font3">                              <tr>                                <td><span frag="面板19"><span frag="窗口19" portletmode="windowTitle" style="display: block; text-align: left;" >合作办学</span></span></td>                              </tr>
+                          </table></td>
+                          <td width="100"><table width="100%"  border="0" cellpadding="0" cellspacing="0" class="font3">                              <tr>                                <td><span frag="面板20"><span frag="窗口20" portletmode="windowMore"  ><span class="more"><a class="more-link" href="/10109/list.htm" title="显示更多" alt="显示更多"><span class="moretext"><img src="/_js/_portletPlugs/simpleNews/css/icon_more_1.gif" border="0"/></span></a></span></span></span></td>
+                              </tr>
+                          </table></td>
+                        </tr>
+                    </table></td>
+                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right2_03.jpg" width="13" height="34" alt="" /></td>                  </tr>
+                  <tr>                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right2_04.jpg" width="5" height="102" alt="" /></td>                    <td valign="top" background="/_upload/tpl/00/9b/155/template155/images/right2_05.jpg"><div frag="面板8"> 
+<div frag="窗口8"> 
+<div id="wp_news_w8">  
+<table width="100%"  border="0" cellpadding="0" cellspacing="0" class="font3">                         
+<tr>                          <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                          <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/0a/60/c10109a133728/page.htm' target='_blank' title='2015年第二批CSC录取学生行前会议通知' alt='2015年第二批CSC录取学生行前会议通知'>2015年第二批CSC录取学生行前会议通知</a></td>  
+<td align="left" width="30px"><div style="white-space:nowrap"><img src='/_js/_portletPlugs/simpleNews/images/new.gif' /></div></td>  
+<td align="left" width="30px"><div style="white-space:nowrap">2015-11-04</div></td>  
+</tr> </table> 
+</td>
+                        </tr> <tr>                          <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                          <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/08/e0/c10109a133344/page.htm' target='_blank' title='美国杜克大学暑期项目简介' alt='美国杜克大学暑期项目简介'>美国杜克大学暑期项目简介</a></td> 
+ 
+<td align="left" width="30px"><div style="white-space:nowrap"></div></td>  
+<td align="left" width="30px"><div style="white-space:nowrap">2015-10-29</div></td>  
+</tr> </table> 
+</td>
+                        </tr> <tr>                          <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                          <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/08/10/c10109a133136/page.htm' target='_blank' title='留学法国： 2015秋季法国高校见面会南京站通知' alt='留学法国： 2015秋季法国高校见面会南京站通知'>留学法国： 2015秋季法国高校见面会南京站通知</a></td> 
+ 
+<td align="left" width="30px"><div style="white-space:nowrap"></div></td>  
+<td align="left" width="30px"><div style="white-space:nowrap">2015-10-26</div></td>  
+</tr> </table> 
+</td>
+                        </tr> <tr>                          <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                          <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/06/d8/c10109a132824/page.htm' target='_blank' title='加州伯克利&卡内基梅隆澳洲校区&普渡大学宣讲会通知 ' alt='加州伯克利&卡内基梅隆澳洲校区&普渡大学宣讲会通知 '>加州伯克利&卡内基梅隆澳洲校区&普渡大学宣讲会通知 </a></td> 
+ 
+<td align="left" width="30px"><div style="white-space:nowrap"></div></td>  
+<td align="left" width="30px"><div style="white-space:nowrap">2015-10-22</div></td>  
+</tr> </table> 
+</td>
+                        </tr>                     </table></div> 
+ 
+</div> 
+</div> 
+</td>
+                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right2_06.jpg" width="13" height="102" alt="" /></td>
+                  </tr>
+                  <tr>                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right2_07.jpg" width="5" height="5" alt="" /></td>                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right2_08.jpg" width="781" height="5" alt="" /></td>                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right2_09.jpg" width="13" height="5" alt="" /></td>
+                  </tr>
+                </table></td>
+              </tr>
+              <tr>                <td><table id="__01" width="799" height="141" border="0" cellpadding="0" cellspacing="0">
+                  <tr>                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right2_01.jpg" width="5" height="34" alt="" /></td>
+                    <td background="/_upload/tpl/00/9b/155/template155/images/right2_02.jpg"><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+                        <tr>                          <td><table width="100%"  border="0" cellpadding="0" cellspacing="0" class="font3">                              <tr>                                <td><span frag="面板21"><span frag="窗口21" portletmode="windowTitle" style="display: block; text-align: left;" >教学研究</span></span></td>                              </tr>
+                          </table></td>
+                          <td width="100"><table width="100%"  border="0" cellpadding="0" cellspacing="0" class="font3">                              <tr>                                <td><span frag="面板22"><span frag="窗口22" portletmode="windowMore"  ><span class="more"><a class="more-link" href="/10048/list.htm" title="显示更多" alt="显示更多"><span class="moretext"><img src="/_js/_portletPlugs/simpleNews/css/icon_more_1.gif" border="0"/></span></a></span></span></span></td>
+                              </tr>
+                          </table></td>
+                        </tr>
+                    </table></td>
+                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right2_03.jpg" width="13" height="34" alt="" /></td>                  </tr>
+                  <tr>                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right2_04.jpg" width="5" height="102" alt="" /></td>                    <td valign="top" background="/_upload/tpl/00/9b/155/template155/images/right2_05.jpg"><div frag="面板9"> 
+<div frag="窗口9"> 
+<div id="wp_news_w9">  
+<table width="100%"  border="0" cellpadding="0" cellspacing="0" class="font3">                         
+<tr>                          <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                          <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/f7/c0/c10048a128960/page.htm' target='_blank' title='关于做好2015年度校级教学改革研究与实践项目申报与2013年度教改项目结题验收的通知' alt='关于做好2015年度校级教学改革研究与实践项目申报与2013年度教改项目结题验收的通知'><font style='color:#0D0D0D;'>关于做好2015年度校级教学改革研究与实践项目申报与2013年度教改...</font></a></td>  
+<td align="left" width="30px"><div style="white-space:nowrap"></div></td>  
+<td align="left" width="30px"><div style="white-space:nowrap">2015-08-25</div></td>  
+</tr> </table> 
+</td>
+                        </tr> <tr>                          <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                          <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/ff/6d/c10048a130925/page.htm' target='_blank' title='关于公布第二批英文（双语）课程、系列研讨课程和校企共建课程立项建设评审结果的通知' alt='关于公布第二批英文（双语）课程、系列研讨课程和校企共建课程立项建设评审结果的通知'>关于公布第二批英文（双语）课程、系列研讨课程和校企共建课程立...</a></td>  
+<td align="left" width="30px"><div style="white-space:nowrap"><img src='/_js/_portletPlugs/simpleNews/images/new.gif' /></div></td>  
+<td align="left" width="30px"><div style="white-space:nowrap">2015-09-22</div></td>  
+</tr> </table> 
+</td>
+                        </tr> <tr>                          <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                          <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/fa/45/c10048a129605/page.htm' target='_blank' title='关于2014-2015学年东南大学教学奖励金和专项奖遴选结果的公示' alt='关于2014-2015学年东南大学教学奖励金和专项奖遴选结果的公示'><font style='font-weight:bold;'>关于2014-2015学年东南大学教学奖励金和专项奖遴选结果的公示</font></a></td> 
+ 
+<td align="left" width="30px"><div style="white-space:nowrap"></div></td>  
+<td align="left" width="30px"><div style="white-space:nowrap">2015-09-02</div></td>  
+</tr> </table> 
+</td>
+                        </tr> <tr>                          <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                          <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/e7/99/c10048a124825/page.htm' target='_blank' title='15-16-2学期校级研讨课开课时间表' alt='15-16-2学期校级研讨课开课时间表'>15-16-2学期校级研讨课开课时间表</a></td>  
+<td align="left" width="30px"><div style="white-space:nowrap"></div></td>  
+<td align="left" width="30px"><div style="white-space:nowrap">2015-05-20</div></td>  
+</tr> </table> 
+</td>
+                        </tr>                     </table></div> 
+ 
+</div> 
+</div> 
+</td>
+                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right2_06.jpg" width="13" height="102" alt="" /></td>
+                  </tr>
+                  <tr>                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right2_07.jpg" width="5" height="5" alt="" /></td>                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right2_08.jpg" width="781" height="5" alt="" /></td>                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right2_09.jpg" width="13" height="5" alt="" /></td>
+                  </tr>
+                </table></td>
+              </tr>
+              <tr>                <td><table id="__01" width="799" height="141" border="0" cellpadding="0" cellspacing="0">
+                  <tr>                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right2_01.jpg" width="5" height="34" alt="" /></td>
+                    <td background="/_upload/tpl/00/9b/155/template155/images/right2_02.jpg"><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+                        <tr>                          <td><table width="100%"  border="0" cellpadding="0" cellspacing="0" class="font3">                              <tr>                                <td><span frag="面板24"><span frag="窗口24" portletmode="windowTitle" style="display: block; text-align: left;" >教学评估</span></span></td>                              </tr>
+                          </table></td>
+                          <td width="100"><table width="100%"  border="0" cellpadding="0" cellspacing="0" class="font3">                              <tr>                                <td><span frag="面板25"><span frag="窗口25" portletmode="windowMore"  ><span class="more"><a class="more-link" href="/10075/list.htm" title="显示更多" alt="显示更多"><span class="moretext"><img src="/_js/_portletPlugs/simpleNews/css/icon_more_1.gif" border="0"/></span></a></span></span></span></td>
+                              </tr>
+                          </table></td>
+                        </tr>
+                    </table></td>
+                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right2_03.jpg" width="13" height="34" alt="" /></td>                  </tr>
+                  <tr>                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right2_04.jpg" width="5" height="102" alt="" /></td>                    <td valign="top" background="/_upload/tpl/00/9b/155/template155/images/right2_05.jpg"><div frag="面板10"> <div frag="窗口10"> <div id="wp_news_w10"> 
+ 
+<table width="100%"  border="0" cellpadding="0" cellspacing="0" class="font3">                         
+<tr>                          <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                          <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/59/9c/c10075a88476/page.htm' target='_blank' title='关于开展2012—2013学年第二学期期中教学检查工作的通知' alt='关于开展2012—2013学年第二学期期中教学检查工作的通知'>关于开展2012—2013学年第二学期期中教学检查工作的通知</a></td>  
+<td align="left" width="30px"><div style="white-space:nowrap"></div></td>  
+<td align="left" width="30px"><div style="white-space:nowrap">2012-10-25</div></td>  
+</tr> </table> 
+</td>
+                        </tr> <tr>                          <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                          <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/59/98/c10075a88472/page.htm' target='_blank' title='关于落实东南大学本科课程教学六环节质量要求与检查、监控措施的通知' alt='关于落实东南大学本科课程教学六环节质量要求与检查、监控措施的通知'>关于落实东南大学本科课程教学六环节质量要求与检查、监控措施的...</a></td> 
+ 
+<td align="left" width="30px"><div style="white-space:nowrap"></div></td>  
+<td align="left" width="30px"><div style="white-space:nowrap">2010-12-02</div></td>  
+</tr> </table> 
+</td>
+                        </tr> <tr>                          <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                          <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/59/90/c10075a88464/page.htm' target='_blank' title='东南大学课程教学六环节质量保障实施' alt='东南大学课程教学六环节质量保障实施'>东南大学课程教学六环节质量保障实施</a></td> 
+ 
+<td align="left" width="30px"><div style="white-space:nowrap"></div></td>  
+<td align="left" width="30px"><div style="white-space:nowrap">2010-12-01</div></td>  
+</tr> </table> 
+</td>
+                        </tr> <tr>                          <td width="15"><img src="/_upload/tpl/00/9b/155/template155/images/1_03.gif" width="15" height="24" align="absmiddle" /></td>
+                          <td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> 
+<td align="left"><a href='/59/94/c10075a88468/page.htm' target='_blank' title='关于2010-2011学年第二学期期中教学检查的通知' alt='关于2010-2011学年第二学期期中教学检查的通知'>关于2010-2011学年第二学期期中教学检查的通知</a></td>  
+<td align="left" width="30px"><div style="white-space:nowrap"></div></td>  
+<td align="left" width="30px"><div style="white-space:nowrap">2010-12-01</div></td>  
+</tr> </table> 
+</td>
+                        </tr>                     </table></div> 
+ 
+</div> 
+</div> 
+</td>
+                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right2_06.jpg" width="13" height="102" alt="" /></td>
+                  </tr>
+                  <tr>                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right2_07.jpg" width="5" height="5" alt="" /></td>                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right2_08.jpg" width="781" height="5" alt="" /></td>                    <td><img src="/_upload/tpl/00/9b/155/template155/images/right2_09.jpg" width="13" height="5" alt="" /></td>
+                  </tr>
+                </table></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>        <td height="80" background="/_upload/tpl/00/9b/155/template155/images/bottom.jpg"><table width="90%"  border="0" align="center" cellpadding="0" cellspacing="0" class="font3">          <tr>            <td align="center">版权所有：东南大学教务处　 <a href="http://121.248.63.3/" target="_blank" class="font3">[网站管理] </a></td>          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>    </div><map name="Map">  <area shape="rect" coords="891,19,997,50" href="http://zlgc.seu.edu.cn/jwcen" target="_blank" /></map></body>
+<script> WdatePicker({eCont:'div1'})</script>
+</html>
+ <image src="/_visitcount?siteId=63&type=1&columnId=3814" style="display:none" width="0" height="0"></image>
